@@ -1,0 +1,23 @@
+{
+    "ArtistData": [
+        {
+            "ID" : "1",
+            "Name": "Ziaul Faruq Apurba",
+            "Gender": "M",
+            "Birthdate": "27-06-1985", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "2",
+            "Name": "Mehazabien Chowdhury",
+            "Gender": "F",
+            "Birthdate": "19-04-1991", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        }
+    ]
+}

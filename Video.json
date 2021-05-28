@@ -1,0 +1,26 @@
+{
+    "VideoData": [
+        {
+            "ID" : "1",
+            "Title" : "Biye | বিয়ে ",
+            "Category": "Drama",
+            "Thumbnail_URL": "",
+            "Artist_ID": ["1","2"],
+            "Release_Date":"29-05-2020",
+            "Viewcount" : 8912631,
+            "Likes" : 146000,
+            "Dislikes" : 10000,
+            "URL" : "https://www.youtube.com/watch?v=tVwf4AMxHos" ,
+            "Length" : "00-40-46",
+            "Genre" : "",
+            "Quality" : "1080p60",
+            "Country" : "Bangladesh",
+            "Language" : "Bangla",
+            "Director" : "Jakaria Showkhin",
+            "Producer" : "Kachi Ahmed",
+            "Publisher": "Eagle Premier Station",
+            "Upload_Date" : "29-05-2020",
+            "Rating":[]
+        }
+    ]
+}
