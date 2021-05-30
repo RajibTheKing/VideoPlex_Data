@@ -25,7 +25,7 @@
             "Name": "Tahsan Rahman Khan",
             "Gender": "M",
             "Birthdate": "18-10-1979", 
-            "Thumbnail_URL": "",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Tahsan_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         },
@@ -35,7 +35,7 @@
             "Name": "Mosharraf Karim",
             "Gender": "M",
             "Birthdate": "22-08-1971", 
-            "Thumbnail_URL": "",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Mosharraf_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         },
@@ -45,7 +45,7 @@
             "Name": "Afran Nisho",
             "Gender": "M",
             "Birthdate": "08-12-1980", 
-            "Thumbnail_URL": "",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Nisho_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         },
@@ -55,7 +55,7 @@
             "Name": "Tanjin Tisha",
             "Gender": "F",
             "Birthdate": "23-05-1995", 
-            "Thumbnail_URL": "",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Tanjin_Tisha_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         },
@@ -65,7 +65,7 @@
             "Name": "Nusrat Imrose Tisha",
             "Gender": "F",
             "Birthdate": "20-02-1989", 
-            "Thumbnail_URL": "",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Tisha_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         },
@@ -75,7 +75,7 @@
             "Name": "Shaila Sabi",
             "Gender": "F",
             "Birthdate": "24-06-1994",
-            "Thumbnail_URL": "",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Shaila_Sabi_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         }
