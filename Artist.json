@@ -18,6 +18,70 @@
             "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Mehazabien_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "3",
+            "Name": "Tahsan Rahman Khan",
+            "Gender": "M",
+            "Birthdate": "18-10-1979", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "4",
+            "Name": "Mosharraf Karim",
+            "Gender": "M",
+            "Birthdate": "22-08-1971", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "5",
+            "Name": "Afran Nisho",
+            "Gender": "M",
+            "Birthdate": "08-12-1980", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "6",
+            "Name": "Tanjin Tisha",
+            "Gender": "F",
+            "Birthdate": "23-05-1995", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "7",
+            "Name": "Nusrat Imrose Tisha",
+            "Gender": "F",
+            "Birthdate": "20-02-1989", 
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
+        },
+
+        {
+            "ID" : "8",
+            "Name": "Shaila Sabi",
+            "Gender": "F",
+            "Birthdate": "24-06-1994",
+            "Thumbnail_URL": "",
+            "Photo_URL": [],
+            "Nationality": "Bangladesh"
         }
+
+
+
+
     ]
 }
