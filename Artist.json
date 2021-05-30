@@ -5,7 +5,7 @@
             "Name": "Ziaul Faruq Apurba",
             "Gender": "M",
             "Birthdate": "27-06-1985", 
-            "Thumbnail_URL": "https://github.com/RajibTheKing/VideoPlex_Data/blob/master/images/artist/Apurba_Thumbnail_1366x768.jpg",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Apurba_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         },
@@ -15,7 +15,7 @@
             "Name": "Mehazabien Chowdhury",
             "Gender": "F",
             "Birthdate": "19-04-1991", 
-            "Thumbnail_URL": "https://github.com/RajibTheKing/VideoPlex_Data/blob/master/images/artist/Mehazabien_Thumbnail_1366x768.jpg",
+            "Thumbnail_URL": "https://raw.githubusercontent.com/RajibTheKing/VideoPlex_Data/master/images/artist/Mehazabien_Thumbnail_1366x768.jpg",
             "Photo_URL": [],
             "Nationality": "Bangladesh"
         }
