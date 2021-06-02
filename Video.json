@@ -50,7 +50,7 @@
             "Category": "Movie",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date":"00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -63,7 +63,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -72,7 +72,7 @@
             "Category": "Movie",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -85,7 +85,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -94,7 +94,7 @@
             "Category": "Movie",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -107,7 +107,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -116,7 +116,7 @@
             "Category": "Movie",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -129,7 +129,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -138,7 +138,7 @@
             "Category": "Natok",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -151,7 +151,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -160,7 +160,7 @@
             "Category": "Natok",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -173,7 +173,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -182,7 +182,7 @@
             "Category": "Natok",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -195,7 +195,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -204,7 +204,7 @@
             "Category": "Natok",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -217,7 +217,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -226,7 +226,7 @@
             "Category": "Music Video",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -239,7 +239,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -248,7 +248,7 @@
             "Category": "Music Video",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -261,7 +261,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -270,7 +270,7 @@
             "Category": "Music Video",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -283,7 +283,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -292,7 +292,7 @@
             "Category": "Music Video",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -305,7 +305,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         },
         {
@@ -314,7 +314,7 @@
             "Category": "Music Video",
             "Thumbnail_URL": "",
             "Artist_ID": [],
-            "Release_Date":"",
+            "Release_Date": "00-00-0000",
             "Viewcount" : 0,
             "Likes" : 0,
             "Dislikes" : 0,
@@ -327,7 +327,7 @@
             "Director" : [],
             "Producer" : [],
             "Publisher": "",
-            "Upload_Date" : "",
+            "Upload_Date" : "00-00-0000",
             "Rating":[]
         }
 
