@@ -62,6 +62,8 @@ class JSONModifier:
 
     
     def insertVideoItem(self, jsonData, videoDetails, videoUrl, title, category):
+        if videoDetails == None:
+            return
         x = dict()
         x["ID"] = videoDetails["id"]
         x["Title"] = title
