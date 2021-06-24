@@ -138,6 +138,13 @@ def main(argv):
             videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
             jm.insertVideoItem(jsonData, videoDetails, videoLink, title, category)
             jm.writeJSON(jsonData, "Video.json")
+    elif instruction == "CHECK":
+        videoLink = argv[1]
+        youtubeAPI = YoutubeAPI()
+        videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
+    else:
+        pass
+
 
 
 
