@@ -78,8 +78,8 @@ class JSONModifier:
         x["Quality"] = videoDetails["contentDetails"]["definition"]
         x["Country"] = ""
         x["Language"] = ""
-        x["Director"] = ""
-        x["Producer"] = ""
+        x["Director"] = []
+        x["Producer"] = []
         x["ChannelTitle"] = videoDetails["snippet"]["channelTitle"]
         x["UpdatedAt"] = str(time.time())
         x["Rating"] = []
