@@ -62,6 +62,10 @@ class YoutubeAPI:
             jsonData = self.fixThumbnailURL(jsonData)
             # End: preprocessing
 
+            if jsonData["status"]["embeddable"] == False:
+                print("Link is not Embeddable --> ", videoLink)
+                return None
+
             jsonStr = json.dumps(jsonData, indent=4, ensure_ascii=False).encode('UTF-8')
             print(jsonStr.decode())
             return jsonData
