@@ -265,8 +265,8 @@
             "Quality": "hd",
             "Country": "",
             "Language": "",
-            "Director": [],
-            "Producer": [],
+            "Director": ["Hello world"],
+            "Producer": ["World Hello"],
             "ChannelTitle": "Eagle Premier Station",
             "UpdatedAt": "1624560511.2080016",
             "Rating": []
