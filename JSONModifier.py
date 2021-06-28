@@ -192,7 +192,9 @@ def main(argv):
         category = argv[1]
         title = argv[2]
         videoLink = argv[3]
-        imdbID = argv[4]
+        imdbID = ""
+        if category == "Movie":
+            imdbID = argv[4]
         
         print("Category, Title, videoLink = ", {category, title, videoLink})
 
