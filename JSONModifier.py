@@ -141,6 +141,14 @@ def getExistingVideoLinks(jsonData):
     
     return urlList
 
+def getExistingImdbIDs(jsonData):
+    imdbIds = []
+    for x in jsonData["VideoData"]:
+        if len(x["IMDBId"]) > 0:
+            imdbIds.append(x["IMDBId"])
+    
+    return imdbIds
+
 
 def main(argv):
     print("JSONModifier Started with ARG: ", argv)
@@ -189,13 +197,16 @@ def main(argv):
         print("Category, Title, videoLink = ", {category, title, videoLink})
 
         urlList = getExistingVideoLinks(jsonData)
+        imdbList = getExistingImdbIDs(jsonData)
         if videoLink in urlList:
             print("FAILED: this link is already existed in JSON")
+        elif imdbID in imdbList:
+            print("FAILED: this imdbID is already existed in JSON")
         else:
             youtubeAPI = YoutubeAPI()
             videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
             imdbDetails = None
-            if category == "Movie":
+            if category == "Movie" and videoDetails != None:
                 rapidApi = RapidApi()
                 imdbDetails = rapidApi.fetchMovieDetail(imdbID)
 
