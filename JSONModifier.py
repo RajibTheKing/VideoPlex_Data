@@ -5,6 +5,7 @@ import json
 from json import decoder
 import datetime
 import time
+from rapidApi import RapidApi
 
 class JSONModifier:
     def __init__(self):
@@ -30,7 +31,7 @@ class JSONModifier:
         file.close()
 
 
-    def updateVideoItem(self, jsonData, videoDetails, videoUrl):
+    def updateVideoItem(self, jsonData, videoDetails, videoUrl, imdbDetail):
         for x in jsonData["VideoData"]:
             if x["URL"] == videoUrl:
                 if videoDetails == None:
@@ -39,7 +40,7 @@ class JSONModifier:
                     x["ID"] = videoDetails["id"]
                     # x["Title"]        --> Untouched
                     # x["Category"]     --> Untouched
-                    # x["Artist_ID"]    --> Untouched
+                    # x["Cast"]    --> Untouched
                     x["Thumbnail_URL"] = videoDetails["snippet"]["thumbnails"]
                     x["PublishedAt"] = videoDetails["snippet"]["publishedAt"]
                     x["ViewCount"] = videoDetails["statistics"]["viewCount"]
@@ -55,20 +56,37 @@ class JSONModifier:
                     # x["Producer"]     --> Untouched
                     x["ChannelTitle"] = videoDetails["snippet"]["channelTitle"]
                     x["UpdatedAt"] = str(time.time())
-                    # x["Rating"]       --> Untouched
+                    # x["Ratings"]       --> Untouched
+                    if x["Category"] == "Movie":
+                        x["Title"] = imdbDetail["Title"]
+                        x["Year"] = imdbDetail["Year"]
+                        x["Released"] = imdbDetail["Released"]
+                        x["Writer"] = imdbDetail["Writer"]
+                        x["Plot"]  = imdbDetail["Plot"]
+                        x["Poster"] = imdbDetail["Poster"]
+                        x["IMDBId"] =  imdbDetail["imdbID"]
+                        x["BoxOffice"] =  imdbDetail["BoxOffice"]
+                        x["Production"]= imdbDetail["Production"]
+                        x["Cast"] = imdbDetail["cast"]
+                        x["Genre"] = imdbDetail["Genre"]
+                        x["Director"] = imdbDetail["Director"]
+                        x["Language"] = imdbDetail["Language"]
+                        x["Country"] = imdbDetail["Country"]
+                        x["Ratings"] = imdbDetail["Ratings"]
+
 
 
         return jsonData
 
     
-    def insertVideoItem(self, jsonData, videoDetails, videoUrl, title, category):
+    def insertVideoItem(self, jsonData, videoDetails, videoUrl, title, category, imdbDetail):
         if videoDetails == None:
             return
         x = dict()
         x["ID"] = videoDetails["id"]
         x["Title"] = title
         x["Category"] = category
-        x["Artist_ID"] = []
+        x["Cast"] = []
         x["Thumbnail_URL"] = videoDetails["snippet"]["thumbnails"]
         x["PublishedAt"] = videoDetails["snippet"]["publishedAt"]
         x["ViewCount"] = videoDetails["statistics"]["viewCount"]
@@ -79,12 +97,39 @@ class JSONModifier:
         x["Genre"] = []
         x["Quality"] = videoDetails["contentDetails"]["definition"]
         x["Country"] = ""
-        x["Language"] = ""
+        x["Language"] = []
         x["Director"] = []
         x["Producer"] = []
         x["ChannelTitle"] = videoDetails["snippet"]["channelTitle"]
         x["UpdatedAt"] = str(time.time())
-        x["Rating"] = []
+        x["Ratings"] = []
+
+        x["Year"] = ""
+        x["Released"] = ""
+        x["Writer"] = []
+        x["Plot"]  = ""
+        x["Poster"] = ""
+        x["IMDBId"] =  ""
+        x["BoxOffice"] =  ""
+        x["Production"]= []
+
+        if category == "Movie":
+            x["Title"] = imdbDetail["Title"]
+            x["Year"] = imdbDetail["Year"]
+            x["Released"] = imdbDetail["Released"]
+            x["Writer"] = imdbDetail["Writer"]
+            x["Plot"]  = imdbDetail["Plot"]
+            x["Poster"] = imdbDetail["Poster"]
+            x["IMDBId"] =  imdbDetail["imdbID"]
+            x["BoxOffice"] =  imdbDetail["BoxOffice"]
+            x["Production"]= imdbDetail["Production"]
+            x["Cast"] = imdbDetail["cast"]
+            x["Genre"] = imdbDetail["Genre"]
+            x["Director"] = imdbDetail["Director"]
+            x["Language"] = imdbDetail["Language"]
+            x["Country"] = imdbDetail["Country"]
+            x["Ratings"] = imdbDetail["Ratings"]
+            
 
         jsonData["VideoData"].append(x)
         return jsonData
@@ -109,39 +154,65 @@ def main(argv):
 
     if instruction == "UPDATE":
         #Means we have video Link and Category
-        videoLink = argv[1]
-        youtubeAPI = YoutubeAPI()
-        videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
-        jsonData = jm.updateVideoItem(jsonData, videoDetails, videoLink)
-        jm.writeJSON(jsonData, "Video.json")
+        # videoLink = argv[1]
+        # youtubeAPI = YoutubeAPI()
+        # videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
+        # jsonData = jm.updateVideoItem(jsonData, videoDetails, videoLink)
+        # jm.writeJSON(jsonData, "Video.json")
+        pass
     
     elif instruction == "UPDATE_ALL":
         youtubeAPI = YoutubeAPI()
-        urlList = getExistingVideoLinks(jsonData)
+        rapidApi = RapidApi()
 
-        for videoLink in urlList:
+        for x in jsonData["VideoData"]:
+            videoLink = x["URL"]
+            category = x["Category"]
+            imdbID = ""
+            imdbDetails = None
+            if category == "Movie":
+                imdbID = x["IMDBId"]
+                imdbDetails = rapidApi.fetchMovieDetail(imdbID)
+            
             videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
-            jsonData = jm.updateVideoItem(jsonData, videoDetails, videoLink)
-            jm.writeJSON(jsonData, "Video.json")
+            jsonData = jm.updateVideoItem(jsonData, videoDetails, videoLink, imdbDetails)
+        
+        jm.writeJSON(jsonData, "Video.json")
 
 
     elif instruction == "INSERT":
         category = argv[1]
         title = argv[2]
-        print("Category, Title = ", {category, title})
         videoLink = argv[3]
+        imdbID = argv[4]
+        
+        print("Category, Title, videoLink = ", {category, title, videoLink})
+
         urlList = getExistingVideoLinks(jsonData)
         if videoLink in urlList:
             print("FAILED: this link is already existed in JSON")
         else:
             youtubeAPI = YoutubeAPI()
             videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
-            jm.insertVideoItem(jsonData, videoDetails, videoLink, title, category)
+            imdbDetails = None
+            if category == "Movie":
+                rapidApi = RapidApi()
+                imdbDetails = rapidApi.fetchMovieDetail(imdbID)
+
+            jm.insertVideoItem(jsonData, videoDetails, videoLink, title, category, imdbDetails)
             jm.writeJSON(jsonData, "Video.json")
-    elif instruction == "CHECK":
+    elif instruction == "CHECK_YTD":
         videoLink = argv[1]
         youtubeAPI = YoutubeAPI()
         videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
+    elif instruction == "CHECK_IMDB":
+        imdbID = argv[1]
+        rapidApi = RapidApi()
+        movieDetails = rapidApi.fetchMovieDetail(imdbID)
+    elif instruction == "isPlayable":
+        videoLink = argv[1]
+        youtubeAPI = YoutubeAPI()
+        videoDetails = youtubeAPI.checkPlayability(videoLink)
     else:
         pass
 

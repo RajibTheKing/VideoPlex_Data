@@ -47,7 +47,29 @@ This list shows: All Youtube Video Categories by categoryId
 class YoutubeAPI:
     def __init__(self):
         print("Inside YoutubeAPI Constructor")
-        self.apiKey = "AIzaSyBKwvNR4nPv60u2sU-6Q14WSWDBqog-iLs"
+        try:
+            with open("C:\\Users\\rajib\\AndroidStudioProjects\\PersonalKeys\\securedKeys.json", encoding='UTF-8') as json_file:
+                data = json.load(json_file)
+                print(data)
+                self.apiKey = data["ytd_Key"]
+                print("Here: ", self.apiKey)
+        except:
+            print("File read ERROR")
+            
+        
+    
+    def checkPlayability(self, videoLink):
+        urlStr = "https://www.youtube.com/get_video_info?video_id="+ self.getVideoID(videoLink) + "&key=" + self.apiKey
+        print("Url: ", urlStr)
+        try:
+            response = requests.get(urlStr)
+            jsonData = response.json()
+            jsonStr = json.dumps(jsonData, indent=4, ensure_ascii=False).encode('UTF-8')
+            print(jsonStr.decode())
+            return jsonData
+        except:
+            print("ERROR: checkPlayability failed")
+            return None
 
     def fetchVideoDetails(self, videoLink):
         try:

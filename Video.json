@@ -5,20 +5,22 @@
             "Title": "Biye | বিয়ে ",
             "Category": "Natok",
             "Thumbnail_URL": "https://i.ytimg.com/vi/tVwf4AMxHos/maxresdefault.jpg",
-            "Artist_ID": [
+            "Cast": [
                 "1",
                 "2"
             ],
             "PublishedAt": "2020-05-29T13:30:11Z",
-            "ViewCount": "9681384",
-            "LikeCount": "154731",
-            "DislikeCount": "11030",
+            "ViewCount": "9727342",
+            "LikeCount": "155222",
+            "DislikeCount": "11068",
             "URL": "https://www.youtube.com/watch?v=tVwf4AMxHos",
             "Duration": "0:40:47",
             "Genre": [],
             "Quality": "hd",
             "Country": "Bangladesh",
-            "Language": "Bangla",
+            "Language": [
+                "Bangla"
+            ],
             "Director": [
                 "Jakaria Showkhin"
             ],
@@ -26,245 +28,727 @@
                 "Kachi Ahmed"
             ],
             "ChannelTitle": "Eagle Premier Station",
-            "UpdatedAt": "1624560415.621826",
-            "Rating": []
+            "UpdatedAt": "1624848424.006689",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "D4HvmICrC8w",
             "Title": "PK",
             "Category": "Movie",
             "Thumbnail_URL": "https://i.ytimg.com/vi/D4HvmICrC8w/sddefault.jpg",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Aamir Khan",
+                    "actor_id": "nm0451148",
+                    "character": "PK"
+                },
+                {
+                    "actor": "Anushka Sharma",
+                    "actor_id": "nm3087728",
+                    "character": "Jagat Janani"
+                },
+                {
+                    "actor": "Saurabh Shukla",
+                    "actor_id": "nm0795661",
+                    "character": "Tapasvi Maharaj"
+                },
+                {
+                    "actor": "Sanjay Dutt",
+                    "actor_id": "nm0004569",
+                    "character": "Bhairon Singh"
+                },
+                {
+                    "actor": "Boman Irani",
+                    "actor_id": "nm1224082",
+                    "character": "Cherry Bajwa"
+                },
+                {
+                    "actor": "Sushant Singh Rajput",
+                    "actor_id": "nm3818286",
+                    "character": "Sarfraz Yousuf"
+                },
+                {
+                    "actor": "Parikshat Sahni",
+                    "actor_id": "nm0756378",
+                    "character": "Jaggu's Father"
+                },
+                {
+                    "actor": "Amardeep Jha",
+                    "actor_id": "nm1030306",
+                    "character": "Jaggu's mother"
+                },
+                {
+                    "actor": "Reema Debnath",
+                    "actor_id": "nm4427212",
+                    "character": "Puljaria"
+                },
+                {
+                    "actor": "Dheerendra Dwivedi",
+                    "actor_id": "nm3358585",
+                    "character": "Terrorist"
+                },
+                {
+                    "actor": "Sai Gundewar",
+                    "actor_id": "nm2306491",
+                    "character": "Ticket Seller"
+                },
+                {
+                    "actor": "Ram P. Sethi",
+                    "actor_id": "nm1082338",
+                    "character": "Uncle in Belgium"
+                },
+                {
+                    "actor": "Rukhsar Rehman",
+                    "actor_id": "nm1360697",
+                    "character": "Pakistan Embassy Receptionist (as Rukhsar)"
+                },
+                {
+                    "actor": "Arun Bali",
+                    "actor_id": "nm0050187",
+                    "character": "Old Man who asked PK for money to pay Hospital bill"
+                },
+                {
+                    "actor": "Pallavi Batra",
+                    "actor_id": "nm6123790",
+                    "character": "Maid of honour"
+                }
+            ],
             "PublishedAt": "2015-02-27T20:16:13Z",
-            "ViewCount": "31810652",
-            "LikeCount": "198488",
-            "DislikeCount": "27784",
+            "ViewCount": "32039333",
+            "LikeCount": "200838",
+            "DislikeCount": "28013",
             "URL": "https://www.youtube.com/watch?v=D4HvmICrC8w",
             "Duration": "2:32:19",
-            "Genre": [],
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "Musical"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Rajkumar Hirani"
+            ],
             "Producer": [],
             "ChannelTitle": "Popular Video",
-            "UpdatedAt": "1624560415.7308252",
-            "Rating": []
+            "UpdatedAt": "1624848424.6204302",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "77%"
+                }
+            ],
+            "Year": "2014",
+            "Released": "19 Dec 2014",
+            "Writer": [
+                "Rajkumar Hirani",
+                "Abhijat Joshi"
+            ],
+            "Plot": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@.jpg",
+            "IMDBId": "tt2338151",
+            "BoxOffice": "$10,616,104",
+            "Production": [
+                "Vinod Chopra Productions"
+            ]
         },
         {
             "ID": "pOPcX2eU8go",
-            "Title": "Bahubali 2",
+            "Title": "Bãhubali 2: The Conclusion",
             "Category": "Movie",
             "Thumbnail_URL": "https://i.ytimg.com/vi/pOPcX2eU8go/sddefault.jpg",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Prabhas",
+                    "actor_id": "nm1659141",
+                    "character": "Amarendra Baahubali"
+                },
+                {
+                    "actor": "Rana Daggubati",
+                    "actor_id": "nm2281292",
+                    "character": "Bhallaladeva"
+                },
+                {
+                    "actor": "Anushka Shetty",
+                    "actor_id": "nm2011932",
+                    "character": "Devasena"
+                },
+                {
+                    "actor": "Sathyaraj",
+                    "actor_id": "nm0766470",
+                    "character": "Kattappa"
+                },
+                {
+                    "actor": "Ramya Krishnan",
+                    "actor_id": "nm0471447",
+                    "character": "Sivagami"
+                },
+                {
+                    "actor": "Tamannaah Bhatia",
+                    "actor_id": "nm1961459",
+                    "character": "Avanthika"
+                },
+                {
+                    "actor": "Nassar",
+                    "actor_id": "nm0621937",
+                    "character": "Bijjaladeva"
+                },
+                {
+                    "actor": "Subbaraju",
+                    "actor_id": "nm1759615",
+                    "character": "Kumara Varma (as Subba Raju)"
+                },
+                {
+                    "actor": "Meka Rama Krishna",
+                    "actor_id": "nm5639197",
+                    "character": "King of Kunthala (as Meka Ramakhrisna)"
+                },
+                {
+                    "actor": "Tanikella Bharani",
+                    "actor_id": "nm0080238",
+                    "character": "Swami Ji"
+                },
+                {
+                    "actor": "Sharad Kelkar",
+                    "actor_id": "nm2821544",
+                    "character": "Baahubali (Hindi) (voice)"
+                },
+                {
+                    "actor": "Aashish Maske",
+                    "actor_id": "nm9056656",
+                    "character": "Srinu"
+                },
+                {
+                    "actor": "Ramakrishna Meka",
+                    "actor_id": "nm6303649",
+                    "character": "Jaya Varma"
+                },
+                {
+                    "actor": "Prabhakar",
+                    "actor_id": "nm7319988",
+                    "character": "Kalakeya King (flashback)"
+                },
+                {
+                    "actor": "Venkat Prasad",
+                    "actor_id": "nm9637391",
+                    "character": ""
+                }
+            ],
             "PublishedAt": "2021-01-14T12:46:19Z",
-            "ViewCount": "4526509",
-            "LikeCount": "40736",
-            "DislikeCount": "5114",
+            "ViewCount": "4660683",
+            "LikeCount": "41782",
+            "DislikeCount": "5242",
             "URL": "https://www.youtube.com/watch?v=pOPcX2eU8go",
             "Duration": "2:46:32",
-            "Genre": [],
+            "Genre": [
+                "Action",
+                "Drama"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Telugu",
+                "Tamil"
+            ],
+            "Director": [
+                "S.S. Rajamouli"
+            ],
             "Producer": [],
             "ChannelTitle": "New HD movies",
-            "UpdatedAt": "1624560415.8472826",
-            "Rating": []
+            "UpdatedAt": "1624848425.1894522",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "86%"
+                }
+            ],
+            "Year": "2017",
+            "Released": "28 Apr 2017",
+            "Writer": [
+                "Vijayendra Prasad",
+                "S.S. Rajamouli",
+                "C.H. Vijay Kumar"
+            ],
+            "Plot": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGNlNmRkMjctNDgxMC00NzFhLWIzY2YtZDk3ZDE0NWZhZDBlXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg",
+            "IMDBId": "tt4849438",
+            "BoxOffice": "$20,186,659",
+            "Production": [
+                "Arka Mediaworks"
+            ]
         },
         {
             "ID": "ULEQb_l-N08",
-            "Title": "K.G.F",
+            "Title": "K.G.F: Chapter 1",
             "Category": "Movie",
             "Thumbnail_URL": "https://i.ytimg.com/vi/ULEQb_l-N08/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Yash",
+                    "actor_id": "nm5232139",
+                    "character": "Rocky"
+                },
+                {
+                    "actor": "Srinidhi Shetty",
+                    "actor_id": "nm8635807",
+                    "character": "Reena"
+                },
+                {
+                    "actor": "Ramachandra Raju",
+                    "actor_id": "nm10346132",
+                    "character": "Garuda"
+                },
+                {
+                    "actor": "Archana Jois",
+                    "actor_id": "nm10346131",
+                    "character": "Gangamma / Rocky's Mother"
+                },
+                {
+                    "actor": "Anant Nag",
+                    "actor_id": "nm0619047",
+                    "character": "Anand Ingalagi"
+                },
+                {
+                    "actor": "Vasishta N. Simha",
+                    "actor_id": "nm7181957",
+                    "character": "Kamal"
+                },
+                {
+                    "actor": "Achyuth Kumar",
+                    "actor_id": "nm5724719",
+                    "character": "Guru Pandyan"
+                },
+                {
+                    "actor": "Srinivasa Murthy",
+                    "actor_id": "nm5675977",
+                    "character": "Narayan"
+                },
+                {
+                    "actor": "Balakrishna",
+                    "actor_id": "nm10449074",
+                    "character": "Inayath Khalil"
+                },
+                {
+                    "actor": "Lakshmipathi",
+                    "actor_id": "nm1550224",
+                    "character": "Huccha"
+                },
+                {
+                    "actor": "Ramesh Indhira",
+                    "actor_id": "nm10447857",
+                    "character": "Sooryavardhan"
+                },
+                {
+                    "actor": "Harish Rai",
+                    "actor_id": "nm6064694",
+                    "character": "Khasim"
+                },
+                {
+                    "actor": "Dinesh Mangaluru",
+                    "actor_id": "nm5741813",
+                    "character": "Shetty"
+                },
+                {
+                    "actor": "Ayyappa P. Sharma",
+                    "actor_id": "nm5697538",
+                    "character": "Vanaram"
+                },
+                {
+                    "actor": "Krishnappa",
+                    "actor_id": "nm2587360",
+                    "character": "Old Man"
+                }
+            ],
             "PublishedAt": "2020-12-13T15:45:01Z",
-            "ViewCount": "238273764",
-            "LikeCount": "2314397",
-            "DislikeCount": "204607",
+            "ViewCount": "241778204",
+            "LikeCount": "2340004",
+            "DislikeCount": "207179",
             "URL": "https://www.youtube.com/watch?v=ULEQb_l-N08",
             "Duration": "2:21:13",
-            "Genre": [],
+            "Genre": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Kannada"
+            ],
+            "Director": [
+                "Prashanth Neel"
+            ],
             "Producer": [],
             "ChannelTitle": "Goldmines Telefilms",
-            "UpdatedAt": "1624560415.9560122",
-            "Rating": []
+            "UpdatedAt": "1624848425.6870527",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "71%"
+                }
+            ],
+            "Year": "2018",
+            "Released": "20 Dec 2018",
+            "Writer": [
+                "Prashanth Neel"
+            ],
+            "Plot": "In the 1970s, a fierce rebel rises against brutal oppression and becomes the symbol of hope to legions of downtrodden people.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDIwMDYxY2UtM2NhYy00NzkwLThhNDYtY2IxZGZhNjYyNmM2XkEyXkFqcGdeQXVyNDY5MTUyNjU@.jpg",
+            "IMDBId": "tt7838252",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
         },
         {
             "ID": "qcRNAPCYOjU",
-            "Title": "Bahubali The Beginning",
+            "Title": "Bãhubali: The Beginning",
             "Category": "Movie",
             "Thumbnail_URL": "https://i.ytimg.com/vi/qcRNAPCYOjU/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Prabhas",
+                    "actor_id": "nm1659141",
+                    "character": "Shivudu"
+                },
+                {
+                    "actor": "Rana Daggubati",
+                    "actor_id": "nm2281292",
+                    "character": "Bhallaladeva"
+                },
+                {
+                    "actor": "Ramya Krishnan",
+                    "actor_id": "nm0471447",
+                    "character": "Shivagami"
+                },
+                {
+                    "actor": "Sathyaraj",
+                    "actor_id": "nm0766470",
+                    "character": "Kattappa"
+                },
+                {
+                    "actor": "Anushka Shetty",
+                    "actor_id": "nm2011932",
+                    "character": "Devasena"
+                },
+                {
+                    "actor": "Tamannaah Bhatia",
+                    "actor_id": "nm1961459",
+                    "character": "Avanthika"
+                },
+                {
+                    "actor": "Nassar",
+                    "actor_id": "nm0621937",
+                    "character": "Bijjaladeva"
+                },
+                {
+                    "actor": "Sudeep",
+                    "actor_id": "nm1679372",
+                    "character": "Aslaam Khan"
+                },
+                {
+                    "actor": "Prabhakar",
+                    "actor_id": "nm7319988",
+                    "character": "Kalakeya War Lord"
+                },
+                {
+                    "actor": "Rajsekhar Aningi",
+                    "actor_id": "nm6845066",
+                    "character": "Bhalladeva Samantha Raju"
+                },
+                {
+                    "actor": "Gabriela Bertante",
+                    "actor_id": "nm4992192",
+                    "character": ""
+                },
+                {
+                    "actor": "Bhanu Sri",
+                    "actor_id": "nm9860260",
+                    "character": ""
+                },
+                {
+                    "actor": "Tanikella Bharani",
+                    "actor_id": "nm0080238",
+                    "character": "Swamiji"
+                },
+                {
+                    "actor": "Nora Fatehi",
+                    "actor_id": "nm6598222",
+                    "character": "Dancer in Green Blouse"
+                },
+                {
+                    "actor": "Sri Simha Koduri",
+                    "actor_id": "nm9842626",
+                    "character": ""
+                }
+            ],
             "PublishedAt": "2020-09-24T08:13:52Z",
-            "ViewCount": "3977482",
-            "LikeCount": "33252",
-            "DislikeCount": "4094",
+            "ViewCount": "3994262",
+            "LikeCount": "33234",
+            "DislikeCount": "4099",
             "URL": "https://www.youtube.com/watch?v=qcRNAPCYOjU",
             "Duration": "2:19:23",
-            "Genre": [],
+            "Genre": [
+                "Action",
+                "Drama"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Telugu",
+                "Tamil"
+            ],
+            "Director": [
+                "S.S. Rajamouli"
+            ],
             "Producer": [],
             "ChannelTitle": "Bollywood Galaxy",
-            "UpdatedAt": "1624560416.071783",
-            "Rating": []
+            "UpdatedAt": "1624848426.2072914",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "89%"
+                }
+            ],
+            "Year": "2015",
+            "Released": "09 Jul 2015",
+            "Writer": [
+                "Vijayendra Prasad",
+                "S.S. Rajamouli",
+                "C.H. Vijay Kumar"
+            ],
+            "Plot": "In ancient India, an adventurous and daring man becomes involved in a decades-old feud between two warring peoples.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg",
+            "IMDBId": "tt2631186",
+            "BoxOffice": "$6,738,000",
+            "Production": [
+                "Arka Mediaworks"
+            ]
         },
         {
             "ID": "ISdupOBMB5s",
             "Title": "Chewing Gum",
             "Category": "Natok",
             "Thumbnail_URL": "https://i.ytimg.com/vi/ISdupOBMB5s/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [],
             "PublishedAt": "2021-05-31T09:00:09Z",
-            "ViewCount": "4931388",
-            "LikeCount": "95027",
-            "DislikeCount": "5137",
+            "ViewCount": "5122259",
+            "LikeCount": "96545",
+            "DislikeCount": "5234",
             "URL": "https://www.youtube.com/watch?v=ISdupOBMB5s",
             "Duration": "0:46:27",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "Eagle Premier Station",
-            "UpdatedAt": "1624560416.1826818",
-            "Rating": []
+            "UpdatedAt": "1624848426.3320243",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "sZJdMv1W4gI",
             "Title": "Tonatunir Valobasha | টোনাটুনির ভালবাসা",
             "Category": "Natok",
             "Thumbnail_URL": "https://i.ytimg.com/vi/sZJdMv1W4gI/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [],
             "PublishedAt": "2021-04-14T17:00:15Z",
-            "ViewCount": "2319166",
-            "LikeCount": "39104",
-            "DislikeCount": "2458",
+            "ViewCount": "2333433",
+            "LikeCount": "39185",
+            "DislikeCount": "2465",
             "URL": "https://www.youtube.com/watch?v=sZJdMv1W4gI",
             "Duration": "0:45:44",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "Rtv Drama",
-            "UpdatedAt": "1624560416.2882018",
-            "Rating": []
+            "UpdatedAt": "1624848426.4688325",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "qkOlp_fDFhQ",
             "Title": "Purnota",
             "Category": "Music Video",
             "Thumbnail_URL": "https://i.ytimg.com/vi/qkOlp_fDFhQ/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [],
             "PublishedAt": "2019-01-09T14:06:49Z",
-            "ViewCount": "245082",
-            "LikeCount": "4093",
-            "DislikeCount": "232",
+            "ViewCount": "245735",
+            "LikeCount": "4102",
+            "DislikeCount": "234",
             "URL": "https://www.youtube.com/watch?v=qkOlp_fDFhQ",
             "Duration": "0:05:28",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "BAMBA",
-            "UpdatedAt": "1624560416.3995697",
-            "Rating": []
+            "UpdatedAt": "1624848426.5980105",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "3BqcsHWaqCg",
             "Title": "Opekkha",
             "Category": "Music Video",
             "Thumbnail_URL": "https://i.ytimg.com/vi/3BqcsHWaqCg/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [],
             "PublishedAt": "2017-07-03T09:08:23Z",
-            "ViewCount": "286711",
-            "LikeCount": "4628",
+            "ViewCount": "289608",
+            "LikeCount": "4669",
             "DislikeCount": "70",
             "URL": "https://www.youtube.com/watch?v=3BqcsHWaqCg",
             "Duration": "0:05:49",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "Laser Vision",
-            "UpdatedAt": "1624560416.512181",
-            "Rating": []
+            "UpdatedAt": "1624848426.7213855",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "nZmxdF_sSLk",
             "Title": "Bolo Sharup",
             "Category": "Music Video",
             "Thumbnail_URL": "https://i.ytimg.com/vi/nZmxdF_sSLk/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [],
             "PublishedAt": "2016-03-02T13:27:08Z",
-            "ViewCount": "2759006",
-            "LikeCount": "18528",
-            "DislikeCount": "1088",
+            "ViewCount": "2764759",
+            "LikeCount": "18576",
+            "DislikeCount": "1090",
             "URL": "https://www.youtube.com/watch?v=nZmxdF_sSLk",
             "Duration": "0:04:25",
             "Genre": [],
             "Quality": "sd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "G Series Music",
-            "UpdatedAt": "1624560416.637575",
-            "Rating": []
+            "UpdatedAt": "1624848426.843679",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "iJaq-BYKK-4",
             "Title": "Ek Nodi Jamuna | এক নদী যমুনা",
             "Category": "Music Video",
             "Thumbnail_URL": "https://i.ytimg.com/vi/iJaq-BYKK-4/maxresdefault.jpg",
-            "Artist_ID": [],
+            "Cast": [],
             "PublishedAt": "2018-12-27T07:28:23Z",
-            "ViewCount": "8655547",
-            "LikeCount": "52145",
-            "DislikeCount": "2316",
+            "ViewCount": "8708386",
+            "LikeCount": "52669",
+            "DislikeCount": "2325",
             "URL": "https://www.youtube.com/watch?v=iJaq-BYKK-4",
             "Duration": "0:05:37",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "Music BD",
-            "UpdatedAt": "1624560416.7427495",
-            "Rating": []
+            "UpdatedAt": "1624848426.9678197",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "JrdVfsol2GQ",
             "Title": "Baba O Amra | বাবা ও আমরা",
             "Category": "Natok",
-            "Artist_ID": [],
+            "Cast": [],
             "Thumbnail_URL": "https://i.ytimg.com/vi/JrdVfsol2GQ/maxresdefault.jpg",
             "PublishedAt": "2021-06-24T10:00:15Z",
-            "ViewCount": "165873",
-            "LikeCount": "10822",
-            "DislikeCount": "458",
+            "ViewCount": "1214786",
+            "LikeCount": "32891",
+            "DislikeCount": "1626",
             "URL": "https://www.youtube.com/watch?v=JrdVfsol2GQ",
             "Duration": "0:47:47",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [
                 "Hello world"
             ],
@@ -272,140 +756,658 @@
                 "World Hello"
             ],
             "ChannelTitle": "Eagle Premier Station",
-            "UpdatedAt": "1624560511.2080016",
-            "Rating": []
+            "UpdatedAt": "1624848427.0862014",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "d7R14fHYooA",
             "Title": "Tomake Chuye Dilam Lyrical Video | তোমাকে ছুঁয়ে দিলাম ",
             "Category": "Music Video",
-            "Artist_ID": [],
+            "Cast": [],
             "Thumbnail_URL": "https://i.ytimg.com/vi/d7R14fHYooA/maxresdefault.jpg",
             "PublishedAt": "2017-01-04T13:04:29Z",
-            "ViewCount": "10743103",
-            "LikeCount": "80780",
-            "DislikeCount": "2065",
+            "ViewCount": "10787427",
+            "LikeCount": "81283",
+            "DislikeCount": "2073",
             "URL": "https://www.youtube.com/watch?v=d7R14fHYooA",
             "Duration": "0:06:01",
             "Genre": [],
             "Quality": "hd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "Amara Muzik Bengali",
-            "UpdatedAt": "1624561902.5980709",
-            "Rating": []
+            "UpdatedAt": "1624848427.2027707",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "vydym4wh9Qo",
             "Title": "Eagles -- Hotel California",
             "Category": "Music Video",
-            "Artist_ID": [],
+            "Cast": [],
             "Thumbnail_URL": "https://i.ytimg.com/vi/vydym4wh9Qo/sddefault.jpg",
             "PublishedAt": "2016-09-29T00:38:17Z",
-            "ViewCount": "2199320",
-            "LikeCount": "18821",
-            "DislikeCount": "708",
+            "ViewCount": "2313715",
+            "LikeCount": "19895",
+            "DislikeCount": "739",
             "URL": "https://www.youtube.com/watch?v=vydym4wh9Qo",
             "Duration": "0:06:41",
             "Genre": [],
             "Quality": "sd",
             "Country": "",
-            "Language": "",
+            "Language": [],
             "Director": [],
             "Producer": [],
             "ChannelTitle": "Mystic Plug Relics",
-            "UpdatedAt": "1624563006.7411745",
-            "Rating": []
+            "UpdatedAt": "1624848427.3250678",
+            "Ratings": [],
+            "Year": "",
+            "Released": "",
+            "Writer": [],
+            "Plot": "",
+            "Poster": "",
+            "IMDBId": "",
+            "BoxOffice": "",
+            "Production": []
         },
         {
             "ID": "329hXVEQUnw",
             "Title": "Munna Bhai M.B.B.S.",
             "Category": "Movie",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Sanjay Dutt",
+                    "actor_id": "nm0004569",
+                    "character": "Murli Prasad 'Munna Bhai' Sharma"
+                },
+                {
+                    "actor": "Arshad Warsi",
+                    "actor_id": "nm0451174",
+                    "character": "Circuit"
+                },
+                {
+                    "actor": "Gracy Singh",
+                    "actor_id": "nm0961737",
+                    "character": "Dr. Suman Asthana (Chinki)"
+                },
+                {
+                    "actor": "Sunil Dutt",
+                    "actor_id": "nm0004570",
+                    "character": "Shri Hari Prasad Sharma"
+                },
+                {
+                    "actor": "Boman Irani",
+                    "actor_id": "nm1224082",
+                    "character": "Dr. J. C. Asthana"
+                },
+                {
+                    "actor": "Rohini Hattangadi",
+                    "actor_id": "nm0368990",
+                    "character": "Parvati Sharma"
+                },
+                {
+                    "actor": "Kurush Deboo",
+                    "actor_id": "nm0213493",
+                    "character": "Dr. Rustam Pavri"
+                },
+                {
+                    "actor": "Jimmy Sheirgill",
+                    "actor_id": "nm0792116",
+                    "character": "Zaheer"
+                },
+                {
+                    "actor": "Yatin Karyekar",
+                    "actor_id": "nm1244971",
+                    "character": "Anand Banerjee"
+                },
+                {
+                    "actor": "Khurshed Lawyer",
+                    "actor_id": "nm2205639",
+                    "character": "Swami"
+                },
+                {
+                    "actor": "Bomie E. Dotiwala",
+                    "actor_id": "nm1069013",
+                    "character": "Parsi Uncle"
+                },
+                {
+                    "actor": "Rohitashv Gour",
+                    "actor_id": "nm1514271",
+                    "character": "Tender Coconut Seller (as Rohitash Gaud)"
+                },
+                {
+                    "actor": "Priya Bapat",
+                    "actor_id": "nm4967520",
+                    "character": "Medical student"
+                },
+                {
+                    "actor": "Rita Puri",
+                    "actor_id": "nm1934497",
+                    "character": "Matron"
+                },
+                {
+                    "actor": "Surendra Rajan",
+                    "actor_id": "nm1242796",
+                    "character": "Sweeper"
+                }
+            ],
             "Thumbnail_URL": "https://i.ytimg.com/vi/329hXVEQUnw/hqdefault.jpg",
             "PublishedAt": "2020-08-05T17:00:30Z",
-            "ViewCount": "622245",
-            "LikeCount": "6969",
-            "DislikeCount": "564",
+            "ViewCount": "639973",
+            "LikeCount": "7158",
+            "DislikeCount": "583",
             "URL": "https://www.youtube.com/watch?v=329hXVEQUnw",
             "Duration": "2:36:08",
-            "Genre": [],
+            "Genre": [
+                "Comedy",
+                "Drama"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Rajkumar Hirani"
+            ],
             "Producer": [],
             "ChannelTitle": "HACKER GAMING ZONE",
-            "UpdatedAt": "1624563382.3680081",
-            "Rating": []
+            "UpdatedAt": "1624848427.8048146",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "94%"
+                }
+            ],
+            "Year": "2003",
+            "Released": "19 Dec 2003",
+            "Writer": [
+                "Vidhu Vinod Chopra",
+                "Rajkumar Hirani",
+                "Lajan Joseph"
+            ],
+            "Plot": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ4MTBlYTQtMzJkYS00OGNjLTk1MWYtNzQ0OTQ0OWEyOWU1XkEyXkFqcGdeQXVyNDgyODgxNjE@.jpg",
+            "IMDBId": "tt0374887",
+            "BoxOffice": "$48,772",
+            "Production": [
+                "Vinod Chopra Productions"
+            ]
         },
         {
             "ID": "jt5WMVzsFnQ",
             "Title": "The Equalizer",
             "Category": "Movie",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Denzel Washington",
+                    "actor_id": "nm0000243",
+                    "character": "Robert McCall"
+                },
+                {
+                    "actor": "Marton Csokas",
+                    "actor_id": "nm0190744",
+                    "character": "Teddy"
+                },
+                {
+                    "actor": "Chloë Grace Moretz",
+                    "actor_id": "nm1631269",
+                    "character": "Teri"
+                },
+                {
+                    "actor": "David Harbour",
+                    "actor_id": "nm1092086",
+                    "character": "Masters"
+                },
+                {
+                    "actor": "Haley Bennett",
+                    "actor_id": "nm2247245",
+                    "character": "Mandy"
+                },
+                {
+                    "actor": "Bill Pullman",
+                    "actor_id": "nm0000597",
+                    "character": "Brian Plummer"
+                },
+                {
+                    "actor": "Melissa Leo",
+                    "actor_id": "nm0502425",
+                    "character": "Susan Plummer"
+                },
+                {
+                    "actor": "David Meunier",
+                    "actor_id": "nm1635108",
+                    "character": "Slavi"
+                },
+                {
+                    "actor": "Johnny Skourtis",
+                    "actor_id": "nm3495787",
+                    "character": "Ralphie"
+                },
+                {
+                    "actor": "Alex Veadov",
+                    "actor_id": "nm0891514",
+                    "character": "Tevi"
+                },
+                {
+                    "actor": "Vladimir Kulich",
+                    "actor_id": "nm0474520",
+                    "character": "Vladimir Pushkin"
+                },
+                {
+                    "actor": "E. Roger Mitchell",
+                    "actor_id": "nm0593301",
+                    "character": "Lead Investigator"
+                },
+                {
+                    "actor": "James Wilcox",
+                    "actor_id": "nm4437821",
+                    "character": "Pederson"
+                },
+                {
+                    "actor": "Mike O'Dea",
+                    "actor_id": "nm2488340",
+                    "character": "Remar (as Mike P. O'Dea)"
+                },
+                {
+                    "actor": "Anastasia Mousis Sanidopoulos",
+                    "actor_id": "nm4291105",
+                    "character": "Jenny"
+                }
+            ],
             "Thumbnail_URL": "https://i.ytimg.com/vi/jt5WMVzsFnQ/maxresdefault.jpg",
             "PublishedAt": "2020-09-19T11:03:52Z",
-            "ViewCount": "95323",
-            "LikeCount": "692",
-            "DislikeCount": "56",
+            "ViewCount": "121576",
+            "LikeCount": "848",
+            "DislikeCount": "78",
             "URL": "https://www.youtube.com/watch?v=jt5WMVzsFnQ",
             "Duration": "2:10:33",
-            "Genre": [],
+            "Genre": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "USA",
+            "Language": [
+                "English",
+                "Russian",
+                "Spanish"
+            ],
+            "Director": [
+                "Antoine Fuqua"
+            ],
             "Producer": [],
             "ChannelTitle": "One Life Entertainment",
-            "UpdatedAt": "1624563481.5898235",
-            "Rating": []
+            "UpdatedAt": "1624848428.298455",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "60%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "57/100"
+                }
+            ],
+            "Year": "2014",
+            "Released": "26 Sep 2014",
+            "Writer": [
+                "Richard Wenk",
+                "Michael Sloan (based on the television series created by)",
+                "Richard Lindheim (based on the television series created by)"
+            ],
+            "Plot": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@.jpg",
+            "IMDBId": "tt0455944",
+            "BoxOffice": "$101,530,738",
+            "Production": [
+                "Escape Artists",
+                "Zhiv",
+                "Mace Neufeld Productions"
+            ]
         },
         {
             "ID": "63F9Pv4k4wk",
-            "Title": "'96",
+            "Title": "96",
             "Category": "Movie",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Vijay Sethupathi",
+                    "actor_id": "nm4043111",
+                    "character": "Ramachandran 'Ram' Krishnamoorthy"
+                },
+                {
+                    "actor": "Adithya Bhaskar",
+                    "actor_id": "nm10174308",
+                    "character": "Young Ramachandran 'Ram' Krishnamoorthy"
+                },
+                {
+                    "actor": "Trisha Krishnan",
+                    "actor_id": "nm1375534",
+                    "character": "Janaki 'Janu' Devi Sugumar"
+                },
+                {
+                    "actor": "Gouri Kishan",
+                    "actor_id": "nm10174309",
+                    "character": "Young Janaki 'Janu' Devi Sugumar"
+                },
+                {
+                    "actor": "Devadarshini Chetan",
+                    "actor_id": "nm2011414",
+                    "character": "Subhashini 'Subha'"
+                },
+                {
+                    "actor": "Niyathi Kadambi",
+                    "actor_id": "nm10174310",
+                    "character": "Young Subhashini 'Subha'"
+                },
+                {
+                    "actor": "Janakaraj",
+                    "actor_id": "nm0417301",
+                    "character": "'Kaval Deivam', the school watchman"
+                },
+                {
+                    "actor": "Bagavathi Perumal",
+                    "actor_id": "nm5408984",
+                    "character": "Murali"
+                },
+                {
+                    "actor": "Surya",
+                    "actor_id": "nm12499707",
+                    "character": "Young Murali"
+                },
+                {
+                    "actor": "Rajkumar",
+                    "actor_id": "nm5408510",
+                    "character": "Surya"
+                },
+                {
+                    "actor": "Murugadass",
+                    "actor_id": "nm4820548",
+                    "character": "Sathiesh"
+                },
+                {
+                    "actor": "Gowthamraj",
+                    "actor_id": "nm11271121",
+                    "character": "Young Sathish"
+                },
+                {
+                    "actor": "Varsha Bollamma",
+                    "actor_id": "nm9103031",
+                    "character": "Prabha"
+                },
+                {
+                    "actor": "Kavithalaya Krishnan",
+                    "actor_id": "nm1688033",
+                    "character": "Kalai Selvan, barber"
+                },
+                {
+                    "actor": "Shyam Prasad",
+                    "actor_id": "nm10174311",
+                    "character": "Hotel Receptionist"
+                }
+            ],
             "Thumbnail_URL": "https://i.ytimg.com/vi/63F9Pv4k4wk/maxresdefault.jpg",
             "PublishedAt": "2019-12-12T12:45:01Z",
-            "ViewCount": "52089082",
-            "LikeCount": "741946",
-            "DislikeCount": "34551",
+            "ViewCount": "52175343",
+            "LikeCount": "743308",
+            "DislikeCount": "34603",
             "URL": "https://www.youtube.com/watch?v=63F9Pv4k4wk",
             "Duration": "2:08:02",
-            "Genre": [],
+            "Genre": [
+                "Drama",
+                "Romance"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Tamil"
+            ],
+            "Director": [
+                "C. Prem Kumar"
+            ],
             "Producer": [],
             "ChannelTitle": "Goldmines Telefilms",
-            "UpdatedAt": "1624563558.8989854",
-            "Rating": []
+            "UpdatedAt": "1624848428.7933543",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.6/10"
+                }
+            ],
+            "Year": "2018",
+            "Released": "03 Oct 2018",
+            "Writer": [
+                "C. Prem Kumar"
+            ],
+            "Plot": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTM1MGM3NjgtZjE4Mi00ZTNlLWI3ODAtNTViZjFmMDc3MjlhXkEyXkFqcGdeQXVyOTA3MTM0MTM@.jpg",
+            "IMDBId": "tt7019842",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
         },
         {
             "ID": "j8nDHes-L7I",
             "Title": "Velaiilla Pattadhari",
             "Category": "Movie",
-            "Artist_ID": [],
+            "Cast": [
+                {
+                    "actor": "Dhanush",
+                    "actor_id": "nm1333687",
+                    "character": "Raghuvaran"
+                },
+                {
+                    "actor": "Saranya Ponvannan",
+                    "actor_id": "nm0764853",
+                    "character": "Bhuvana"
+                },
+                {
+                    "actor": "Amala Paul",
+                    "actor_id": "nm3898762",
+                    "character": "Shalini"
+                },
+                {
+                    "actor": "Samuthirakani",
+                    "actor_id": "nm2284321",
+                    "character": "Raghuvaran's father"
+                },
+                {
+                    "actor": "Vivek",
+                    "actor_id": "nm0900266",
+                    "character": "Azahagusundaram"
+                },
+                {
+                    "actor": "Surabhi",
+                    "actor_id": "nm6120872",
+                    "character": "Anitha"
+                },
+                {
+                    "actor": "Cell Murugan",
+                    "actor_id": "nm4819263",
+                    "character": "Manickam"
+                },
+                {
+                    "actor": "Amitash Pradhan",
+                    "actor_id": "nm6632190",
+                    "character": "Arun Subramaniom"
+                },
+                {
+                    "actor": "Hrishikesh",
+                    "actor_id": "nm6632191",
+                    "character": "Karthik"
+                },
+                {
+                    "actor": "Sriram",
+                    "actor_id": "nm6046821",
+                    "character": "Anitha's Father"
+                },
+                {
+                    "actor": "Meera Krishnan",
+                    "actor_id": "nm1572739",
+                    "character": "Shalini's Mother"
+                },
+                {
+                    "actor": "Vignesh Shivan",
+                    "actor_id": "nm4174626",
+                    "character": "Vignesh"
+                },
+                {
+                    "actor": "D.R.K. Kiran",
+                    "actor_id": "nm3597562",
+                    "character": "MLA Varadarajan"
+                },
+                {
+                    "actor": "M.J. Shriram",
+                    "actor_id": "nm9318007",
+                    "character": "Ramkumar, Anitha's Father"
+                },
+                {
+                    "actor": "Sanjay Asnani",
+                    "actor_id": "nm5364291",
+                    "character": "Venkat Subramaniam"
+                }
+            ],
             "Thumbnail_URL": "https://i.ytimg.com/vi/j8nDHes-L7I/maxresdefault.jpg",
             "PublishedAt": "2016-05-02T13:26:16Z",
-            "ViewCount": "7033422",
-            "LikeCount": "33569",
-            "DislikeCount": "3840",
+            "ViewCount": "7052189",
+            "LikeCount": "33691",
+            "DislikeCount": "3850",
             "URL": "https://www.youtube.com/watch?v=j8nDHes-L7I",
             "Duration": "2:12:40",
-            "Genre": [],
+            "Genre": [
+                "Action",
+                "Comedy",
+                "Drama"
+            ],
             "Quality": "hd",
-            "Country": "",
-            "Language": "",
-            "Director": [],
+            "Country": "India",
+            "Language": [
+                "Tamil"
+            ],
+            "Director": [
+                "Velraj"
+            ],
             "Producer": [],
             "ChannelTitle": "UIE Movies",
-            "UpdatedAt": "1624563612.8181796",
-            "Rating": []
+            "UpdatedAt": "1624848429.338638",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "79%"
+                }
+            ],
+            "Year": "2014",
+            "Released": "17 Jul 2014",
+            "Writer": [
+                "Velraj"
+            ],
+            "Plot": "A jobless young man gets to redeem himself.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTI2YmZmNTUtNTQ3Yy00OTJmLWE1ZDgtYzVjZGRiNmNjMjYwXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg",
+            "IMDBId": "tt3822396",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "R7aCOI4DuA0",
+            "Title": "A Aa",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Nithiin",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Samantha Akkineni",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Anupama Parameswaran",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/R7aCOI4DuA0/maxresdefault.jpg",
+            "PublishedAt": "2018-08-26T07:17:25Z",
+            "ViewCount": "338824331",
+            "LikeCount": "1956264",
+            "DislikeCount": "211979",
+            "URL": "https://www.youtube.com/watch?v=R7aCOI4DuA0",
+            "Duration": "2:32:44",
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Telugu"
+            ],
+            "Director": [
+                "Trivikram Srinivas"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Aditya Movies",
+            "UpdatedAt": "1624848641.7247286",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Year": "2016",
+            "Released": "03 Jun 2016",
+            "Writer": [
+                "Trivikram Srinivas",
+                "Yaddanapoodi Sulochana Rani"
+            ],
+            "Plot": "Anand and Anasuya meet each other on a train ride. The two eventually fall in love and have to fight for their relationship.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjVmZTczZWMtMjA5OS00OGYzLTk1NmEtOWZjOWZmNzg4OTk3XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UY133_CR35,0,90,133_.jpg",
+            "IMDBId": "tt5684466",
+            "BoxOffice": "$2,313,043",
+            "Production": [
+                "Haarika &amp; Hassine Creations"
+            ]
         }
     ]
 }
