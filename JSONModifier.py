@@ -44,8 +44,17 @@ class JSONModifier:
                     x["Thumbnail_URL"] = videoDetails["snippet"]["thumbnails"]
                     x["PublishedAt"] = videoDetails["snippet"]["publishedAt"]
                     x["ViewCount"] = videoDetails["statistics"]["viewCount"]
-                    x["LikeCount"] = videoDetails["statistics"]["likeCount"]
-                    x["DislikeCount"] = videoDetails["statistics"]["dislikeCount"]
+                
+                    if "likeCount" in videoDetails["statistics"].keys():
+                        x["LikeCount"] = videoDetails["statistics"]["likeCount"]
+                    else:
+                        x["LikeCount"] = "0"
+                    
+                    if "dislikeCount" in videoDetails["statistics"].keys():
+                        x["DislikeCount"] = videoDetails["statistics"]["dislikeCount"]
+                    else:
+                        x["DislikeCount"] = "0"
+
                     # x["URL"]          --> Untouched
                     x["Duration"] = videoDetails["contentDetails"]["duration"]
                     # x["Genre"]        --> Untouched
@@ -90,8 +99,17 @@ class JSONModifier:
         x["Thumbnail_URL"] = videoDetails["snippet"]["thumbnails"]
         x["PublishedAt"] = videoDetails["snippet"]["publishedAt"]
         x["ViewCount"] = videoDetails["statistics"]["viewCount"]
-        x["LikeCount"] = videoDetails["statistics"]["likeCount"]
-        x["DislikeCount"] = videoDetails["statistics"]["dislikeCount"]
+
+        if "likeCount" in videoDetails["statistics"].keys():
+            x["LikeCount"] = videoDetails["statistics"]["likeCount"]
+        else:
+            x["LikeCount"] = "0"
+        
+        if "dislikeCount" in videoDetails["statistics"].keys():
+            x["DislikeCount"] = videoDetails["statistics"]["dislikeCount"]
+        else:
+            x["DislikeCount"] = "0"
+
         x["URL"] = videoUrl
         x["Duration"] = videoDetails["contentDetails"]["duration"]
         x["Genre"] = []
