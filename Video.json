@@ -1404,255 +1404,6 @@
             ]
         },
         {
-            "ID": "bxYumSntCds",
-            "Title": "Julayi",
-            "Category": "Movie",
-            "Cast": [
-                {
-                    "actor": "Allu Arjun",
-                    "actor_id": "nm1084853",
-                    "character": "Ravi"
-                },
-                {
-                    "actor": "Ileana D'Cruz",
-                    "actor_id": "nm2299825",
-                    "character": "Madhu"
-                },
-                {
-                    "actor": "Rajendra Prasad",
-                    "actor_id": "nm0707399",
-                    "character": "Seetaram (as Rajendraprasad)"
-                },
-                {
-                    "actor": "Sonu Sood",
-                    "actor_id": "nm1399243",
-                    "character": "Bittu"
-                },
-                {
-                    "actor": "Srinivasa Rao Kota",
-                    "actor_id": "nm0004469",
-                    "character": "Varada Rajulu"
-                },
-                {
-                    "actor": "Brahmanandam",
-                    "actor_id": "nm0103977",
-                    "character": ""
-                },
-                {
-                    "actor": "Tanikella Bharani",
-                    "actor_id": "nm0080238",
-                    "character": "Narayana Murthi"
-                },
-                {
-                    "actor": "M.S. Narayana",
-                    "actor_id": "nm0621263",
-                    "character": "Valmiki"
-                },
-                {
-                    "actor": "Dharmavarapu Subramanyam",
-                    "actor_id": "nm0223506",
-                    "character": ""
-                },
-                {
-                    "actor": "Brahmaji",
-                    "actor_id": "nm0103976",
-                    "character": "Travel Murthi"
-                },
-                {
-                    "actor": "Rao Ramesh",
-                    "actor_id": "nm3559559",
-                    "character": "Raja Manikyam"
-                },
-                {
-                    "actor": "Sheetal Menon",
-                    "actor_id": "nm2974366",
-                    "character": "Devayani"
-                },
-                {
-                    "actor": "Tulasi",
-                    "actor_id": "nm0876310",
-                    "character": "Kameswari"
-                },
-                {
-                    "actor": "Hema",
-                    "actor_id": "nm1332553",
-                    "character": "Sujatha"
-                },
-                {
-                    "actor": "Pragathi",
-                    "actor_id": "nm1277066",
-                    "character": "Lalitha"
-                }
-            ],
-            "Thumbnail_URL": "https://i.ytimg.com/vi/bxYumSntCds/maxresdefault.jpg",
-            "PublishedAt": "2019-03-28T16:30:03Z",
-            "ViewCount": "115896785",
-            "LikeCount": "407736",
-            "DislikeCount": "73951",
-            "URL": "https://www.youtube.com/watch?v=bxYumSntCds",
-            "Duration": "1:52:36",
-            "Genre": [
-                "Action",
-                "Comedy",
-                "Crime",
-                "Thriller"
-            ],
-            "Quality": "hd",
-            "Country": "India",
-            "Language": [
-                "Telugu"
-            ],
-            "Director": [
-                "Trivikram Srinivas"
-            ],
-            "Producer": [],
-            "ChannelTitle": "Goldmines Dishoom",
-            "UpdatedAt": "1625123791.512533",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "7.2/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "72%"
-                }
-            ],
-            "Year": "2012",
-            "Released": "09 Aug 2012",
-            "Writer": [
-                "Trivikram Srinivas"
-            ],
-            "Plot": "After helping the police foil a violent heist, a sharp minded young man must evade the criminal mastermind whose plans he has thwarted.",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BYjQwMjM1YjMtNjAyZi00NzI4LWJhNTgtOGYyNjBmMTBlNDUxXkEyXkFqcGdeQXVyNjQ3ODkxMjE@.jpg",
-            "IMDBId": "tt2330927",
-            "BoxOffice": "N/A",
-            "Production": [
-                "N/A"
-            ]
-        },
-        {
-            "ID": "wl7FV1LHcU4",
-            "Title": "Shatamanam Bhavati",
-            "Category": "Movie",
-            "Cast": [
-                {
-                    "actor": "Sharwanand",
-                    "actor_id": "nm2319565",
-                    "character": "Raju, Bangarraju's son and Raghavaraju and Janakamma's grandson"
-                },
-                {
-                    "actor": "Anupama Parameshwaran",
-                    "actor_id": "nm7322042",
-                    "character": "Nithya, Jhansi's daughter, Raghavaraju and Janakamma's granddaughter, Raju's cousin and love interest"
-                },
-                {
-                    "actor": "Prakash Raj",
-                    "actor_id": "nm0695177",
-                    "character": "Raghavaraju"
-                },
-                {
-                    "actor": "Jayasudha",
-                    "actor_id": "nm0419707",
-                    "character": "Janakamma"
-                },
-                {
-                    "actor": "Indraja",
-                    "actor_id": "nm0408548",
-                    "character": "Jhansi, Nithya's mother"
-                },
-                {
-                    "actor": "Raja Ravindra",
-                    "actor_id": "nm1022090",
-                    "character": "Nithya's father"
-                },
-                {
-                    "actor": "Himaja",
-                    "actor_id": "nm10484251",
-                    "character": "SubbaLakshmi"
-                },
-                {
-                    "actor": "Ravi Prakash",
-                    "actor_id": "nm3046678",
-                    "character": "Raju's friend"
-                },
-                {
-                    "actor": "Praveen",
-                    "actor_id": "nm4936620",
-                    "character": "Raju's friend"
-                },
-                {
-                    "actor": "Prabhas Sreenu",
-                    "actor_id": "nm5393308",
-                    "character": "Raju's friend"
-                },
-                {
-                    "actor": "Shiju",
-                    "actor_id": "nm1196446",
-                    "character": "Raju's uncle"
-                },
-                {
-                    "actor": "Dil Raju",
-                    "actor_id": "nm2346035",
-                    "character": "A cameo appearance"
-                },
-                {
-                    "actor": "Tanikella Bharani",
-                    "actor_id": "nm0080238",
-                    "character": "Chalaram (cameo appearance)"
-                },
-                {
-                    "actor": "Mahesh Achanta",
-                    "actor_id": "nm9706424",
-                    "character": ""
-                },
-                {
-                    "actor": "Chalapathi Rao",
-                    "actor_id": "nm0149867",
-                    "character": ""
-                }
-            ],
-            "Thumbnail_URL": "https://i.ytimg.com/vi/wl7FV1LHcU4/maxresdefault.jpg",
-            "PublishedAt": "2017-07-13T18:32:24Z",
-            "ViewCount": "80147530",
-            "LikeCount": "247438",
-            "DislikeCount": "51098",
-            "URL": "https://www.youtube.com/watch?v=wl7FV1LHcU4",
-            "Duration": "2:04:00",
-            "Genre": [
-                "Drama"
-            ],
-            "Quality": "hd",
-            "Country": "India",
-            "Language": [
-                "Telugu"
-            ],
-            "Director": [
-                "Satish Vegesna"
-            ],
-            "Producer": [],
-            "ChannelTitle": "Dil Raju",
-            "UpdatedAt": "1625123792.0231912",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "7.1/10"
-                }
-            ],
-            "Year": "2017",
-            "Released": "14 Jan 2017",
-            "Writer": [
-                "Satish Vegesna"
-            ],
-            "Plot": "The anguish that negligent children can cause is depicted here from the parents' perspective.",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BYTIwOTJiNzgtOGEwNS00NTMyLWE1ZjQtNDg3YTBmZjM2OTAyXkEyXkFqcGdeQXVyNTgxODY5ODI@.jpg",
-            "IMDBId": "tt6417204",
-            "BoxOffice": "N/A",
-            "Production": [
-                "N/A"
-            ]
-        },
-        {
             "ID": "bU7Aah48sHM",
             "Title": "Aankhen",
             "Category": "Movie",
@@ -8949,6 +8700,134 @@
             "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@.jpg",
             "IMDBId": "tt2213054",
             "BoxOffice": "$1,122,527",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "SOR0jfPeMYg",
+            "Title": "Kalank",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Varun Dhawan",
+                    "actor_id": "nm3315894",
+                    "character": "Zafar"
+                },
+                {
+                    "actor": "Alia Bhatt",
+                    "actor_id": "nm1017633",
+                    "character": "Roop"
+                },
+                {
+                    "actor": "Aditya Roy Kapoor",
+                    "actor_id": "nm3169069",
+                    "character": "Dev Chaudhry"
+                },
+                {
+                    "actor": "Madhuri Dixit",
+                    "actor_id": "nm0002043",
+                    "character": "Bahaar Begum"
+                },
+                {
+                    "actor": "Sonakshi Sinha",
+                    "actor_id": "nm3848064",
+                    "character": "Satya Chaudhry"
+                },
+                {
+                    "actor": "Sanjay Dutt",
+                    "actor_id": "nm0004569",
+                    "character": "Balraj Chaudhry"
+                },
+                {
+                    "actor": "Kunal Khemu",
+                    "actor_id": "nm0447240",
+                    "character": "Abdul"
+                },
+                {
+                    "actor": "Pawan Chopra",
+                    "actor_id": "nm1428293",
+                    "character": "Dharampal"
+                },
+                {
+                    "actor": "Kiara Advani",
+                    "actor_id": "nm6442009",
+                    "character": "Lajjo"
+                },
+                {
+                    "actor": "Nida Bhatt",
+                    "actor_id": "nm10794431",
+                    "character": "Haveli Girl 2"
+                },
+                {
+                    "actor": "Neha Chawdhury",
+                    "actor_id": "nm10794432",
+                    "character": "Haveli Girl 3"
+                },
+                {
+                    "actor": "Pavail Gulati",
+                    "actor_id": "nm3711178",
+                    "character": "Aditya"
+                },
+                {
+                    "actor": "Achint Kaur",
+                    "actor_id": "nm1213227",
+                    "character": "Saroj"
+                },
+                {
+                    "actor": "Amit Singh Kharbanda",
+                    "actor_id": "nm2081925",
+                    "character": "Riot Thrower"
+                },
+                {
+                    "actor": "Rashmi Mukherjee",
+                    "actor_id": "nm10794430",
+                    "character": "Haveli Girl 1"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/SOR0jfPeMYg/maxresdefault.jpg",
+            "PublishedAt": "2021-02-05T11:30:02Z",
+            "ViewCount": "2199397",
+            "LikeCount": "24072",
+            "DislikeCount": "1656",
+            "URL": "https://www.youtube.com/watch?v=SOR0jfPeMYg",
+            "Duration": "1:57:26",
+            "Genre": [
+                "Drama",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Abhishek Varman"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625138342.7057188",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "3.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "39%"
+                }
+            ],
+            "Year": "2019",
+            "Released": "17 Apr 2019",
+            "Writer": [
+                "Shibani Bathija (story)",
+                "Hussain Dalal (dialogue)",
+                "Abhishek Varman (screenplay)"
+            ],
+            "Plot": "The lives of six enigmatic characters become entangled whilst in search of love, but separated by the dichotomy between the two worlds of Husnabad, a town in North India.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTg4NWEyMjMtNTM2MS00M2I4LWFjOTQtMDRjNjc0ODI3NmY4XkEyXkFqcGdeQXVyOTc1MDE5NzI@.jpg",
+            "IMDBId": "tt6988116",
+            "BoxOffice": "$2,729,336",
             "Production": [
                 "N/A"
             ]
