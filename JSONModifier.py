@@ -167,6 +167,10 @@ def getExistingImdbIDs(jsonData):
     
     return imdbIds
 
+def getVideoDataByLink(jsonData, videoLink):
+    for x in jsonData["VideoData"]:
+        if x["URL"] == videoLink:
+            return x
 
 def main(argv):
     print("JSONModifier Started with ARG: ", argv)
@@ -180,11 +184,21 @@ def main(argv):
 
     if instruction == "UPDATE":
         #Means we have video Link and Category
-        # videoLink = argv[1]
-        # youtubeAPI = YoutubeAPI()
-        # videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
-        # jsonData = jm.updateVideoItem(jsonData, videoDetails, videoLink)
-        # jm.writeJSON(jsonData, "Video.json")
+        videoLink = argv[1]
+
+        oldVideoData = getVideoDataByLink(jsonData, videoLink)
+        youtubeAPI = YoutubeAPI()
+        videoDetails = youtubeAPI.fetchVideoDetails(videoLink)
+        imdbDetails = None
+
+        if oldVideoData["Category"] == "Movie":
+            rapidApi = RapidApi()
+            imdbID = oldVideoData["IMDBId"]
+            imdbDetails = rapidApi.fetchMovieDetail(imdbID)
+
+        
+        jsonData = jm.updateVideoItem(jsonData, videoDetails, videoLink, imdbDetails)
+        jm.writeJSON(jsonData, "Video.json")
         pass
     
     elif instruction == "UPDATE_ALL":
