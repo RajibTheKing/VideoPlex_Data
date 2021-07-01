@@ -6348,6 +6348,2610 @@
             "Production": [
                 "Vishesh Films"
             ]
+        },
+        {
+            "ID": "dw6QQdFEfeo",
+            "Title": "Ghajini",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Aamir Khan",
+                    "actor_id": "nm0451148",
+                    "character": "Sanjay Singhania"
+                },
+                {
+                    "actor": "Asin Thottumkal",
+                    "actor_id": "nm1821791",
+                    "character": "Kalpana Shetty"
+                },
+                {
+                    "actor": "Jiah Khan",
+                    "actor_id": "nm2318317",
+                    "character": "Sunita"
+                },
+                {
+                    "actor": "Tinnu Anand",
+                    "actor_id": "nm0025627",
+                    "character": "Satveer Kohli"
+                },
+                {
+                    "actor": "Pradeep Singh Rawat",
+                    "actor_id": "nm1004887",
+                    "character": "Ghajini Dharmatma (as Pradeep Rawat)"
+                },
+                {
+                    "actor": "Asif Ahmed",
+                    "actor_id": "nm2382945",
+                    "character": ""
+                },
+                {
+                    "actor": "John Cardiel",
+                    "actor_id": "nm3133202",
+                    "character": ""
+                },
+                {
+                    "actor": "Vibha Chhibber",
+                    "actor_id": "nm2913438",
+                    "character": "Havaldar Vijyanti"
+                },
+                {
+                    "actor": "Neville Dadachanji",
+                    "actor_id": "nm4482766",
+                    "character": "Mr. Mehta"
+                },
+                {
+                    "actor": "Salim Fatehi",
+                    "actor_id": "nm3956240",
+                    "character": "Aamir's bodyguard"
+                },
+                {
+                    "actor": "Mahendra Gole",
+                    "actor_id": "nm4111046",
+                    "character": ""
+                },
+                {
+                    "actor": "Sunil Grover",
+                    "actor_id": "nm1571487",
+                    "character": "Sampat / Sanjay Singhania"
+                },
+                {
+                    "actor": "Simon Hewitt",
+                    "actor_id": "nm4110461",
+                    "character": ""
+                },
+                {
+                    "actor": "Kiran Deep Jagi",
+                    "actor_id": "nm4109641",
+                    "character": ""
+                },
+                {
+                    "actor": "Raj Jamdade",
+                    "actor_id": "nm4110585",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/dw6QQdFEfeo/maxresdefault.jpg",
+            "PublishedAt": "2013-11-26T15:54:13Z",
+            "ViewCount": "26775870",
+            "LikeCount": "144673",
+            "DislikeCount": "12036",
+            "URL": "https://www.youtube.com/watch?v=dw6QQdFEfeo",
+            "Duration": "3:05:07",
+            "Genre": [
+                "Action",
+                "Drama",
+                "Mystery"
+            ],
+            "Quality": "hd",
+            "Country": "India, United States, United Kingdom",
+            "Language": [
+                "Hindi",
+                "Urdu"
+            ],
+            "Director": [
+                "A.R. Murugadoss"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Cizgi Film İzle",
+            "UpdatedAt": "1625129831.0393426",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                }
+            ],
+            "Year": "2008",
+            "Released": "24 Dec 2008",
+            "Writer": [
+                "Piyush Mishra",
+                "A.R. Murugadoss",
+                "Christopher Nolan"
+            ],
+            "Plot": "A short-term memory loss patient sets out on his journey to avenge the death of his beloved girl.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjU4N2ZlYTktNTFlNy00OGZmLWEwZWQtZDllMjk1MzhiZDEzXkEyXkFqcGdeQXVyODE0NjUxNzY@.jpg",
+            "IMDBId": "tt1166100",
+            "BoxOffice": "$2,430,627",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "Fftb9PmfnWk",
+            "Title": "Koi... Mil Gaya",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Hrithik Roshan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Rekha",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Preity Zinta",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/Fftb9PmfnWk/sddefault.jpg",
+            "PublishedAt": "2017-01-27T12:58:45Z",
+            "ViewCount": "42367305",
+            "LikeCount": "223464",
+            "DislikeCount": "36989",
+            "URL": "https://www.youtube.com/watch?v=Fftb9PmfnWk",
+            "Duration": "2:45:21",
+            "Genre": [
+                "Action",
+                "Drama",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi",
+                "English"
+            ],
+            "Director": [
+                "Rakesh Roshan"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Aftab Vlogs",
+            "UpdatedAt": "1625129925.0267923",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "75%"
+                }
+            ],
+            "Year": "2003",
+            "Released": "08 Aug 2003",
+            "Writer": [
+                "Rakesh Roshan",
+                "Honey Irani",
+                "Sachin Bhowmick"
+            ],
+            "Plot": "A developmentally disabled young man tries to continue the work his father did in communicating with extra-terrestrials from outer space, which leads to something miraculous and wonderful.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGNkZjc0NDctM2Y2Ny00NjRiLWIzMDUtMDNlZjI5YzUyOWQ0XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UY133_CR73,0,90,133_.jpg",
+            "IMDBId": "tt0254481",
+            "BoxOffice": "$671,372",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "yuhQGbQs4Nk",
+            "Title": "Krrish",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Hrithik Roshan",
+                    "actor_id": "nm0004335",
+                    "character": "Krishna Mehra"
+                },
+                {
+                    "actor": "Priyanka Chopra",
+                    "actor_id": "nm1231899",
+                    "character": "Priya"
+                },
+                {
+                    "actor": "Rekha",
+                    "actor_id": "nm0004334",
+                    "character": "Sonia Mehra"
+                },
+                {
+                    "actor": "Naseeruddin Shah",
+                    "actor_id": "nm0787462",
+                    "character": "Dr. Siddhant Arya"
+                },
+                {
+                    "actor": "Sharat Saxena",
+                    "actor_id": "nm0768296",
+                    "character": "Vikram Sinha"
+                },
+                {
+                    "actor": "Manini M. Mishra",
+                    "actor_id": "nm1689638",
+                    "character": "Honey (as Maaninee Mishra)"
+                },
+                {
+                    "actor": "Puneet Issar",
+                    "actor_id": "nm0411539",
+                    "character": "Komal"
+                },
+                {
+                    "actor": "Hemant Pandey",
+                    "actor_id": "nm0659235",
+                    "character": "Bahadur"
+                },
+                {
+                    "actor": "Akash Khurana",
+                    "actor_id": "nm0452021",
+                    "character": "Catholic School Principal"
+                },
+                {
+                    "actor": "Ahmed Khan",
+                    "actor_id": "nm0451156",
+                    "character": ""
+                },
+                {
+                    "actor": "Xia Bin",
+                    "actor_id": "nm1707744",
+                    "character": "Kristian 'Assumed Krrish'"
+                },
+                {
+                    "actor": "Edgar Noordanus",
+                    "actor_id": "nm2170237",
+                    "character": ""
+                },
+                {
+                    "actor": "Mithilesh Chaturvedi",
+                    "actor_id": "nm0154218",
+                    "character": ""
+                },
+                {
+                    "actor": "Zain Khan",
+                    "actor_id": "nm2146970",
+                    "character": "Child artist"
+                },
+                {
+                    "actor": "Fardeen Hussaini",
+                    "actor_id": "nm2280957",
+                    "character": "Child artist"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/yuhQGbQs4Nk/maxresdefault.jpg",
+            "PublishedAt": "2020-09-16T13:30:08Z",
+            "ViewCount": "8381814",
+            "LikeCount": "54789",
+            "DislikeCount": "5543",
+            "URL": "https://www.youtube.com/watch?v=yuhQGbQs4Nk",
+            "Duration": "2:55:17",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi",
+                "English",
+                "Cantonese",
+                "Tamil"
+            ],
+            "Director": [
+                "Rakesh Roshan"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625132972.0435808",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "88%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "68/100"
+                }
+            ],
+            "Year": "2006",
+            "Released": "23 Jun 2006",
+            "Writer": [
+                "Bibhuti bhusan Behera",
+                "Robin Bhatt",
+                "Sachin Bhowmick"
+            ],
+            "Plot": "Krishna is forced by circumstances to use his superpowers and become the masked superhero Krrish, before getting drawn towards his lost legacy.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzRlNDJmOWUtMTM5Ni00ZjNlLWEwZjYtNTY1ZGEzNjE3OWMzXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg",
+            "IMDBId": "tt0432637",
+            "BoxOffice": "$1,430,721",
+            "Production": [
+                "Film Kraft"
+            ]
+        },
+        {
+            "ID": "vK2aDyIMHNM",
+            "Title": "Krrish 3",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Hrithik Roshan",
+                    "actor_id": "nm0004335",
+                    "character": "Krishna Mehra"
+                },
+                {
+                    "actor": "Vivek Oberoi",
+                    "actor_id": "nm1059103",
+                    "character": "Kaal"
+                },
+                {
+                    "actor": "Priyanka Chopra",
+                    "actor_id": "nm1231899",
+                    "character": "Priya Mehra"
+                },
+                {
+                    "actor": "Kangana Ranaut",
+                    "actor_id": "nm2144007",
+                    "character": "Kaya"
+                },
+                {
+                    "actor": "Arif Zakaria",
+                    "actor_id": "nm0952232",
+                    "character": "Dr. Varun Shetty"
+                },
+                {
+                    "actor": "Raju Kher",
+                    "actor_id": "nm1199508",
+                    "character": "Dr. Alok Sen"
+                },
+                {
+                    "actor": "Rajpal Yadav",
+                    "actor_id": "nm1056425",
+                    "character": "Kripal Sharma"
+                },
+                {
+                    "actor": "Rakhi Vijayan",
+                    "actor_id": "nm5440392",
+                    "character": "Mrs. Sharma"
+                },
+                {
+                    "actor": "Gowhar Khan",
+                    "actor_id": "nm6091397",
+                    "character": "Frog Man"
+                },
+                {
+                    "actor": "Nazia Shaikh",
+                    "actor_id": "nm6091398",
+                    "character": "Cheetah Woman"
+                },
+                {
+                    "actor": "Sameer Ali Khan",
+                    "actor_id": "nm6040403",
+                    "character": "Ant Man"
+                },
+                {
+                    "actor": "Shaurya Chauhan",
+                    "actor_id": "nm4474695",
+                    "character": "Scorpion Woman"
+                },
+                {
+                    "actor": "Amrit Pal Singh",
+                    "actor_id": "nm3844835",
+                    "character": "Swordfish Man"
+                },
+                {
+                    "actor": "Daniel Kaleb",
+                    "actor_id": "nm5157127",
+                    "character": "Rhino Man"
+                },
+                {
+                    "actor": "Sachin Khedekar",
+                    "actor_id": "nm0451561",
+                    "character": "Minister"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/vK2aDyIMHNM/sddefault.jpg",
+            "PublishedAt": "2018-04-12T15:30:01Z",
+            "ViewCount": "76719887",
+            "LikeCount": "424314",
+            "DislikeCount": "56409",
+            "URL": "https://www.youtube.com/watch?v=vK2aDyIMHNM",
+            "Duration": "2:33:22",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi",
+                "Telugu",
+                "Tamil"
+            ],
+            "Director": [
+                "Rakesh Roshan"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133058.309982",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "71%"
+                }
+            ],
+            "Year": "2013",
+            "Released": "01 Nov 2013",
+            "Writer": [
+                "Rakesh Roshan",
+                "Robin Bhatt",
+                "Honey Irani"
+            ],
+            "Plot": "Krrish and his scientist father have to save the world and their own family from an evil man named Kaal and his gang of mutants, led by the ruthless Kaya.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzU3MTM1Ml5BMl5BanBnXkFtZTgwOTk2MjQ0MDE@.jpg",
+            "IMDBId": "tt1029231",
+            "BoxOffice": "$2,191,534",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "7AQTPF0insI",
+            "Title": "Don",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Shah Rukh Khan",
+                    "actor_id": "nm0451321",
+                    "character": "Don"
+                },
+                {
+                    "actor": "Priyanka Chopra",
+                    "actor_id": "nm1231899",
+                    "character": "Roma"
+                },
+                {
+                    "actor": "Arjun Rampal",
+                    "actor_id": "nm0992000",
+                    "character": "Jasjit Ahuja"
+                },
+                {
+                    "actor": "Isha Koppikar",
+                    "actor_id": "nm0465929",
+                    "character": "Anita"
+                },
+                {
+                    "actor": "Boman Irani",
+                    "actor_id": "nm1224082",
+                    "character": "DCP D'Silva"
+                },
+                {
+                    "actor": "Om Puri",
+                    "actor_id": "nm0700875",
+                    "character": "CBI Officer Vishal Malik"
+                },
+                {
+                    "actor": "Pavan Malhotra",
+                    "actor_id": "nm0539497",
+                    "character": "Narang (as Pavan Mallhotra)"
+                },
+                {
+                    "actor": "Rajesh Khattar",
+                    "actor_id": "nm1279922",
+                    "character": "Singhania"
+                },
+                {
+                    "actor": "Tanay Chheda",
+                    "actor_id": "nm2540053",
+                    "character": "Deepu"
+                },
+                {
+                    "actor": "Kareena Kapoor",
+                    "actor_id": "nm0004626",
+                    "character": "Kamini"
+                },
+                {
+                    "actor": "Chunky Pandey",
+                    "actor_id": "nm0659233",
+                    "character": "TJ"
+                },
+                {
+                    "actor": "Diwakar Pundir",
+                    "actor_id": "nm2218463",
+                    "character": "Ramesh (as Diwaker Pundir)"
+                },
+                {
+                    "actor": "Sandrine Verrier Seth",
+                    "actor_id": "nm2539326",
+                    "character": "TJ's moll"
+                },
+                {
+                    "actor": "Sidhart Jyoti",
+                    "actor_id": "nm2534770",
+                    "character": "Insp. Verma"
+                },
+                {
+                    "actor": "Shamsher Sidhu",
+                    "actor_id": "nm2535965",
+                    "character": "Vikram"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/7AQTPF0insI/maxresdefault.jpg",
+            "PublishedAt": "2018-03-17T15:30:01Z",
+            "ViewCount": "14323296",
+            "LikeCount": "69472",
+            "DislikeCount": "6698",
+            "URL": "https://www.youtube.com/watch?v=7AQTPF0insI",
+            "Duration": "2:48:36",
+            "Genre": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Farhan Akhtar"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133215.5125134",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "78%"
+                }
+            ],
+            "Year": "2006",
+            "Released": "20 Oct 2006",
+            "Writer": [
+                "Salim Khan",
+                "Javed Akhtar",
+                "Farhan Akhtar"
+            ],
+            "Plot": "Vijay is recruited by a police officer to masquerade as his lookalike Don, the leader of an international gang of smugglers. Things go wrong when the officer is killed and Vijay is left to fend for himself.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzAyMWE0MjgtMDVjNS00ZDMyLWE4NjQtNWU2ZDgyYTlmMjdjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg",
+            "IMDBId": "tt0461936",
+            "BoxOffice": "$2,223,961",
+            "Production": [
+                "Excel Entertainment"
+            ]
+        },
+        {
+            "ID": "lXmOgb1qGZ4",
+            "Title": "Shootout at Lokhandwala",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Amitabh Bachchan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Sanjay Dutt",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Sunil Shetty",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Arbaaz Khan",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/lXmOgb1qGZ4/maxresdefault.jpg",
+            "PublishedAt": "2018-07-14T13:30:01Z",
+            "ViewCount": "14137894",
+            "LikeCount": "57632",
+            "DislikeCount": "7712",
+            "URL": "https://www.youtube.com/watch?v=lXmOgb1qGZ4",
+            "Duration": "2:02:06",
+            "Genre": [
+                "Action",
+                "Crime",
+                "History"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Apoorva Lakhia"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133323.4677615",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "66%"
+                }
+            ],
+            "Year": "2007",
+            "Released": "25 May 2007",
+            "Writer": [
+                "Apoorva Lakhia",
+                "Suresh Nair",
+                "Raj Vasant (Dialogue)"
+            ],
+            "Plot": "An account of the gangster Mahindra Dolas and his gang, which terrorized Mumbai City, and a massive war between Mumbai Police and gangs during 16 November 1991.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWI5NjNlM2YtZGI5MS00NzkyLThmNTUtOTAyYjI3NTM2MjgxXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UY133_CR55,0,90,133_.jpg",
+            "IMDBId": "tt0811066",
+            "BoxOffice": "$289,232",
+            "Production": [
+                "White Feather Films"
+            ]
+        },
+        {
+            "ID": "KtJeiqZusR8",
+            "Title": "Dabangg 2",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Salman Khan",
+                    "actor_id": "nm0006795",
+                    "character": "Chulbul Pandey"
+                },
+                {
+                    "actor": "Sonakshi Sinha",
+                    "actor_id": "nm3848064",
+                    "character": "Rajjo Pandey"
+                },
+                {
+                    "actor": "Prakash Raj",
+                    "actor_id": "nm0695177",
+                    "character": "Thakur Bachchalal Singh"
+                },
+                {
+                    "actor": "Vinod Khanna",
+                    "actor_id": "nm0451396",
+                    "character": "Prajapati Pandey"
+                },
+                {
+                    "actor": "Arbaaz Khan",
+                    "actor_id": "nm0451170",
+                    "character": "Makhanchand 'Makkhi' Prajapati Pandey"
+                },
+                {
+                    "actor": "Deepak Dobriyal",
+                    "actor_id": "nm1795232",
+                    "character": "Genda"
+                },
+                {
+                    "actor": "Nikitin Dheer",
+                    "actor_id": "nm3049068",
+                    "character": "Chunni"
+                },
+                {
+                    "actor": "Mahie Gill",
+                    "actor_id": "nm2977124",
+                    "character": "Nirmala Pandey"
+                },
+                {
+                    "actor": "Kareena Kapoor",
+                    "actor_id": "nm0004626",
+                    "character": "Dancer (Special Appearance)"
+                },
+                {
+                    "actor": "Sandeepa Dhar",
+                    "actor_id": "nm4191182",
+                    "character": "Anjali"
+                },
+                {
+                    "actor": "Ram Sujan",
+                    "actor_id": "nm4457662",
+                    "character": "Constable Chaubey"
+                },
+                {
+                    "actor": "Pradeep Chaudhry",
+                    "actor_id": "nm1654650",
+                    "character": "Constable Tiwari"
+                },
+                {
+                    "actor": "Gireesh Sahedev",
+                    "actor_id": "nm3475833",
+                    "character": "Inspector Siddique"
+                },
+                {
+                    "actor": "Yogendra Tiku",
+                    "actor_id": "nm0863171",
+                    "character": "Constable Sharma"
+                },
+                {
+                    "actor": "Yugal Kishore",
+                    "actor_id": "nm4601524",
+                    "character": "Awadh Narayan"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/KtJeiqZusR8/maxresdefault.jpg",
+            "PublishedAt": "2019-03-16T13:00:08Z",
+            "ViewCount": "13506951",
+            "LikeCount": "67151",
+            "DislikeCount": "7118",
+            "URL": "https://www.youtube.com/watch?v=KtJeiqZusR8",
+            "Duration": "2:03:34",
+            "Genre": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Arbaaz Khan"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133575.9530222",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "33%"
+                }
+            ],
+            "Year": "2012",
+            "Released": "21 Dec 2012",
+            "Writer": [
+                "Dilip Shukla"
+            ],
+            "Plot": "Chulbul Pandey invites a fresh trouble when he kills the brother of a notorious politician and the former swears to wreak havoc in his life.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTVlZjIxMGItNzJjNS00YjMyLWE2OTMtYTJjNjQ1NzI2ZTAzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg",
+            "IMDBId": "tt2112131",
+            "BoxOffice": "$2,519,190",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "cQ1fg-8BiM8",
+            "Title": "Don 2",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Shah Rukh Khan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Florian Lukas",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Om Puri",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/cQ1fg-8BiM8/maxresdefault.jpg",
+            "PublishedAt": "2018-03-17T18:30:01Z",
+            "ViewCount": "4894184",
+            "LikeCount": "32866",
+            "DislikeCount": "2476",
+            "URL": "https://www.youtube.com/watch?v=cQ1fg-8BiM8",
+            "Duration": "2:23:44",
+            "Genre": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Quality": "hd",
+            "Country": "India, Germany",
+            "Language": [
+                "Hindi",
+                "English",
+                "German"
+            ],
+            "Director": [
+                "Farhan Akhtar"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133696.6273928",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.1/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "71%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "49/100"
+                }
+            ],
+            "Year": "2011",
+            "Released": "23 Dec 2011",
+            "Writer": [
+                "Farhan Akhtar",
+                "Javed Akhtar",
+                "Salim Khan"
+            ],
+            "Plot": "Don turns himself in and escapes with Vardhaan from prison, following which he recruits a team to steal currency printing plates from a bank in Berlin.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjRiNzQ2Y2YtMThmNi00MGJlLTg2MzYtMGI3ZDgzMjI1ZDlhXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UY133_CR73,0,90,133_.jpg",
+            "IMDBId": "tt1285241",
+            "BoxOffice": "$3,680,306",
+            "Production": [
+                "Pixion Studio",
+                "Excel Entertainment",
+                "Landmark Production",
+                "Film Base Berlin",
+                "Red Chillies Entertainment"
+            ]
+        },
+        {
+            "ID": "0qN4zVvM4HU",
+            "Title": "Taare Zameen Par",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Darsheel Safary",
+                    "actor_id": "nm2594301",
+                    "character": "Ishaan Awasthi"
+                },
+                {
+                    "actor": "Aamir Khan",
+                    "actor_id": "nm0451148",
+                    "character": "Ram Shankar Nikumbh"
+                },
+                {
+                    "actor": "Tisca Chopra",
+                    "actor_id": "nm1538116",
+                    "character": "Maya Awasthi"
+                },
+                {
+                    "actor": "Vipin Sharma",
+                    "actor_id": "nm1479650",
+                    "character": "Nandkishore Awasthi"
+                },
+                {
+                    "actor": "Sachet Engineer",
+                    "actor_id": "nm3222518",
+                    "character": "Yohan Awasthi"
+                },
+                {
+                    "actor": "Tanay Chheda",
+                    "actor_id": "nm2540053",
+                    "character": "Rajan Damodaran"
+                },
+                {
+                    "actor": "Lalitha Lajmi",
+                    "actor_id": "nm2896015",
+                    "character": "Herself - Art Mela's Chief Guest"
+                },
+                {
+                    "actor": "Girija Oak",
+                    "actor_id": "nm2887354",
+                    "character": "Jabeen - Amir's Co-worker (as Girija)"
+                },
+                {
+                    "actor": "Ravi Khanvilkar",
+                    "actor_id": "nm1334512",
+                    "character": "Mr. Holkar (as Ravi Khanwelkar)"
+                },
+                {
+                    "actor": "Pratima Kulkarni",
+                    "actor_id": "nm3220980",
+                    "character": "Principal - St. Anthony's School"
+                },
+                {
+                    "actor": "Meghna Malik",
+                    "actor_id": "nm1386135",
+                    "character": "Victoria Teacher"
+                },
+                {
+                    "actor": "Sonali Sachdev",
+                    "actor_id": "nm3000723",
+                    "character": "Irene Teacher"
+                },
+                {
+                    "actor": "Sanjay Dadich",
+                    "actor_id": "nm3220990",
+                    "character": "Maadhoo"
+                },
+                {
+                    "actor": "Raaj Gopal Iyer",
+                    "actor_id": "nm2052194",
+                    "character": "George Sir"
+                },
+                {
+                    "actor": "Bugs Bhargava",
+                    "actor_id": "nm3221779",
+                    "character": "Sen Sir"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/0qN4zVvM4HU/maxresdefault.jpg",
+            "PublishedAt": "2018-10-15T13:00:00Z",
+            "ViewCount": "7767778",
+            "LikeCount": "62264",
+            "DislikeCount": "5450",
+            "URL": "https://www.youtube.com/watch?v=0qN4zVvM4HU",
+            "Duration": "2:34:39",
+            "Genre": [
+                "Drama",
+                "Family"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Aamir Khan",
+                "Amole Gupte"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133766.9401104",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "91%"
+                }
+            ],
+            "Year": "2007",
+            "Released": "21 Dec 2007",
+            "Writer": [
+                "Amole Gupte"
+            ],
+            "Plot": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg",
+            "IMDBId": "tt0986264",
+            "BoxOffice": "$1,223,869",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "zj-7Oijp4fw",
+            "Title": "Khatta Meetha",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Akshay Kumar",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Trisha Krishnan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Kulbhushan Kharbanda",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Aruna Irani",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/zj-7Oijp4fw/maxresdefault.jpg",
+            "PublishedAt": "2019-11-30T13:00:14Z",
+            "ViewCount": "5891803",
+            "LikeCount": "40292",
+            "DislikeCount": "3595",
+            "URL": "https://www.youtube.com/watch?v=zj-7Oijp4fw",
+            "Duration": "2:37:20",
+            "Genre": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Priyadarshan"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133839.4107172",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "17%"
+                }
+            ],
+            "Year": "2010",
+            "Released": "23 Jul 2010",
+            "Writer": [
+                "Jay Master (dialogues)",
+                "Priyadarshan (screenplay)",
+                "Priyadarshan (story)",
+                "Nitin Raikwar (lyrics)",
+                "Shehzad Roy (lyrics)"
+            ],
+            "Plot": "A seemingly corrupt petty contractor faces challenges from the local municipality, his family, his employees, as well as a former girlfriend and her family.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDI3NDkwMjI0NF5BMl5BanBnXkFtZTgwOTg2OTczOTE@.jpg",
+            "IMDBId": "tt1455811",
+            "BoxOffice": "$541,904",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "Rm8gPi-Ak_0",
+            "Title": "Jannat: In Search of Heaven...",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Emraan Hashmi",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Sonal Chauhan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Armen Grayg",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/Rm8gPi-Ak_0/maxresdefault.jpg",
+            "PublishedAt": "2018-08-06T13:30:01Z",
+            "ViewCount": "3955930",
+            "LikeCount": "25180",
+            "DislikeCount": "2155",
+            "URL": "https://www.youtube.com/watch?v=Rm8gPi-Ak_0",
+            "Duration": "2:03:32",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Kunal Deshmukh"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Movie Flix India",
+            "UpdatedAt": "1625133902.8348854",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "62%"
+                }
+            ],
+            "Year": "2008",
+            "Released": "16 May 2008",
+            "Writer": [
+                "Vishesh Bhatt",
+                "Kunal Deshmukh",
+                "Sanjay Masoomm"
+            ],
+            "Plot": "Arjun is a reckless young man with an obsession for making money at card games. A chance meeting with a girl in a mall, Zoya, gives him the reasons he was looking for the move out of his ordinary life. He steps up from playing small-",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGVmYTJmZWQtNWEzMy00ZDM5LTliMTMtM2I5MjU2ZjllMzkwXkEyXkFqcGdeQXVyMjg5NTEwNg@@.jpg",
+            "IMDBId": "tt1216300",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "jf2gOSORoqU",
+            "Title": "Jab We Met",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Shahid Kapoor",
+                    "actor_id": "nm1372788",
+                    "character": "Aditya D. Kashyap"
+                },
+                {
+                    "actor": "Kareena Kapoor",
+                    "actor_id": "nm0004626",
+                    "character": "Geet Kaur Dhillon"
+                },
+                {
+                    "actor": "Tarun Arora",
+                    "actor_id": "nm1595577",
+                    "character": "Anshuman"
+                },
+                {
+                    "actor": "Dara Singh",
+                    "actor_id": "nm0802107",
+                    "character": "Dadaji"
+                },
+                {
+                    "actor": "Pavan Malhotra",
+                    "actor_id": "nm0539497",
+                    "character": "Geet's Chacha (as Pawan Malhotra)"
+                },
+                {
+                    "actor": "Kamal Tiwari",
+                    "actor_id": "nm1033153",
+                    "character": ""
+                },
+                {
+                    "actor": "Kiran Juneja",
+                    "actor_id": "nm1185265",
+                    "character": "Mrs. Dhillon"
+                },
+                {
+                    "actor": "Divya Shah",
+                    "actor_id": "nm2275659",
+                    "character": "Mrs. Khanna"
+                },
+                {
+                    "actor": "Saumya Tandon",
+                    "actor_id": "nm2777374",
+                    "character": "Roop Kaur Dhillon"
+                },
+                {
+                    "actor": "Nihar Thakkar",
+                    "actor_id": "nm3130252",
+                    "character": "Raghav"
+                },
+                {
+                    "actor": "Manushka Khisty",
+                    "actor_id": "nm3129389",
+                    "character": "Meher"
+                },
+                {
+                    "actor": "F.J. Jussawala",
+                    "actor_id": "nm3129206",
+                    "character": "Mother's lawyer"
+                },
+                {
+                    "actor": "Vishal Om Prakash",
+                    "actor_id": "nm2119028",
+                    "character": "Aditya's lawyer (as Vishal Sharma)"
+                },
+                {
+                    "actor": "Rohini Sahni",
+                    "actor_id": "nm3130122",
+                    "character": "Bride"
+                },
+                {
+                    "actor": "Deepak Sharma",
+                    "actor_id": "nm3128877",
+                    "character": "Groom"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/jf2gOSORoqU/maxresdefault.jpg",
+            "PublishedAt": "2021-01-19T12:30:04Z",
+            "ViewCount": "2866210",
+            "LikeCount": "24305",
+            "DislikeCount": "1336",
+            "URL": "https://www.youtube.com/watch?v=jf2gOSORoqU",
+            "Duration": "2:18:29",
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Imtiaz Ali"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Shemaroo",
+            "UpdatedAt": "1625134512.614624",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "90%"
+                }
+            ],
+            "Year": "2007",
+            "Released": "26 Oct 2007",
+            "Writer": [
+                "Imtiaz Ali"
+            ],
+            "Plot": "A depressed wealthy businessman finds his life changing after he meets a spunky and care-free young woman.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzYmY4MGItM2I4YS00OWZhLWFmMzQtYzI2MWY1MmM3NGU1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg",
+            "IMDBId": "tt1093370",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "hTwIb1eXKS4",
+            "Title": "Life Mein Kabhie Kabhiee",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Aftab Shivdasani",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Dino Morea",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Anuj Sawhney",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Nauheed Cyrusi",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/hTwIb1eXKS4/maxresdefault.jpg",
+            "PublishedAt": "2021-03-27T05:30:01Z",
+            "ViewCount": "20567",
+            "LikeCount": "141",
+            "DislikeCount": "21",
+            "URL": "https://www.youtube.com/watch?v=hTwIb1eXKS4",
+            "Duration": "2:18:18",
+            "Genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Vikram Bhatt"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Shemaroo",
+            "UpdatedAt": "1625134818.1964612",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "65%"
+                }
+            ],
+            "Year": "2007",
+            "Released": "13 Apr 2007",
+            "Writer": [
+                "Manoj Tyagi (screenplay)",
+                "Girish Dhamija (dialogue)",
+                "Sameer (lyrics)"
+            ],
+            "Plot": "A story about friends and their ambitions.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjIwNmRlYmMtMGUwOC00NzM1LTgyMDMtMmMwNjZmYWQ1MDE4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+            "IMDBId": "tt0979913",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "xYMlpOSpQTc",
+            "Title": "Machaan",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Sonu Bhardwaj",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Viccky Biadyanath",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Prateek Goyal",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Mahmood Hashmi",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/xYMlpOSpQTc/maxresdefault.jpg",
+            "PublishedAt": "2021-03-26T05:30:04Z",
+            "ViewCount": "25811",
+            "LikeCount": "233",
+            "DislikeCount": "41",
+            "URL": "https://www.youtube.com/watch?v=xYMlpOSpQTc",
+            "Duration": "2:05:06",
+            "Genre": [
+                "Drama",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Nitesh Tiwari"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Shemaroo",
+            "UpdatedAt": "1625134905.3984814",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.9/10"
+                }
+            ],
+            "Year": "2021",
+            "Released": "22 Jan 2021",
+            "Writer": [
+                "Prem Sagar Singh"
+            ],
+            "Plot": "The story revolves around a person named Bholashankar, as simple as his name means, living in a quite small backward village named Sabalpur. He was always involved helping all the villagers...",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjdjZjYtMzBmZC00MDI3LWE0ZTEtY2FkNzkwYWFiNDk2XkEyXkFqcGdeQXVyNjA4NTk0NjU@._V1_SX300.jpg",
+            "IMDBId": "tt12724920",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "EsgWtuM3hTA",
+            "Title": "Love Shagun",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Anuj Sachdeva",
+                    "actor_id": "nm5744232",
+                    "character": "J D"
+                },
+                {
+                    "actor": "Nidhi Subbaiah",
+                    "actor_id": "nm4999775",
+                    "character": "Tia"
+                },
+                {
+                    "actor": "Manit Joura",
+                    "actor_id": "nm4927475",
+                    "character": "Sandy"
+                },
+                {
+                    "actor": "Simpy Singh",
+                    "actor_id": "nm7667343",
+                    "character": "Moon"
+                },
+                {
+                    "actor": "Shamin Mannan",
+                    "actor_id": "nm7667342",
+                    "character": "Shama"
+                },
+                {
+                    "actor": "Vikram Kochhar",
+                    "actor_id": "nm5843593",
+                    "character": "Deepak"
+                },
+                {
+                    "actor": "Taran Bajaj",
+                    "actor_id": "nm4788055",
+                    "character": "Sumit"
+                },
+                {
+                    "actor": "Jameel Khan",
+                    "actor_id": "nm0451239",
+                    "character": "Boss"
+                },
+                {
+                    "actor": "Jaswinder Kaur",
+                    "actor_id": "nm9100857",
+                    "character": "Vibha"
+                },
+                {
+                    "actor": "Rajat Ganguly",
+                    "actor_id": "nm9067036",
+                    "character": "Tia's grandfather"
+                },
+                {
+                    "actor": "Swastika Chakraborty",
+                    "actor_id": "nm0149829",
+                    "character": "Tia's mom"
+                },
+                {
+                    "actor": "Anurag Sharma",
+                    "actor_id": "nm5626282",
+                    "character": "JD's brother"
+                },
+                {
+                    "actor": "Saandesh Nayak",
+                    "actor_id": "nm5104917",
+                    "character": "Astrologer (as Saandesh Nayak)"
+                },
+                {
+                    "actor": "Ravi Khemu",
+                    "actor_id": "nm3785394",
+                    "character": "Divorce lawyer"
+                },
+                {
+                    "actor": "Neha Chawla",
+                    "actor_id": "nm8626084",
+                    "character": "Amanda"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/EsgWtuM3hTA/maxresdefault.jpg",
+            "PublishedAt": "2021-07-01T06:30:06Z",
+            "ViewCount": "13935",
+            "LikeCount": "243",
+            "DislikeCount": "28",
+            "URL": "https://www.youtube.com/watch?v=EsgWtuM3hTA",
+            "Duration": "1:58:11",
+            "Genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Saandesh Nayak"
+            ],
+            "Producer": [],
+            "ChannelTitle": "Shemaroo",
+            "UpdatedAt": "1625135490.8455558",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.4/10"
+                }
+            ],
+            "Year": "2016",
+            "Released": "26 Feb 2016",
+            "Writer": [
+                "Saandesh Nayak",
+                "Vivek k Rawat"
+            ],
+            "Plot": "JD must battle astrological problems surrounding his marriage, his mothers incessant nagging and his friends advising him on relationships in order to find an ideal life partner.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTk2NzU1NV5BMl5BanBnXkFtZTgwMDM0NjM4NzE@.jpg",
+            "IMDBId": "tt5130348",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "7y3KbUHnee8",
+            "Title": "Bajrangi Bhaijaan",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Salman Khan",
+                    "actor_id": "nm0006795",
+                    "character": "Pawan Kumar Chaturvedi"
+                },
+                {
+                    "actor": "Harshaali Malhotra",
+                    "actor_id": "nm7372970",
+                    "character": "Shahida"
+                },
+                {
+                    "actor": "Nawazuddin Siddiqui",
+                    "actor_id": "nm1596350",
+                    "character": "Chand Nawab"
+                },
+                {
+                    "actor": "Kareena Kapoor",
+                    "actor_id": "nm0004626",
+                    "character": "Rasika"
+                },
+                {
+                    "actor": "Sharat Saxena",
+                    "actor_id": "nm0768296",
+                    "character": "Dayanand"
+                },
+                {
+                    "actor": "Alka Badola Kaushal",
+                    "actor_id": "nm7478179",
+                    "character": "Saraswati"
+                },
+                {
+                    "actor": "Om Puri",
+                    "actor_id": "nm0700875",
+                    "character": "Maulana Sahab"
+                },
+                {
+                    "actor": "Meher Vij",
+                    "actor_id": "nm2016476",
+                    "character": "Shahida's Mother Razia"
+                },
+                {
+                    "actor": "Rajesh Sharma",
+                    "actor_id": "nm0788903",
+                    "character": "Senior Pakistani Police officer / Hamid Khan"
+                },
+                {
+                    "actor": "Mir Sarwar",
+                    "actor_id": "nm6661769",
+                    "character": "Shahida's Father Rauf"
+                },
+                {
+                    "actor": "Khushaal Pawar",
+                    "actor_id": "nm9171688",
+                    "character": "Chandnawab's Cameraman"
+                },
+                {
+                    "actor": "Krunal Pandit",
+                    "actor_id": "nm4443385",
+                    "character": "Travel Agent"
+                },
+                {
+                    "actor": "Manoj Bakshi",
+                    "actor_id": "nm3438304",
+                    "character": "Qureshi"
+                },
+                {
+                    "actor": "Mursaleem Qureshi",
+                    "actor_id": "nm8013346",
+                    "character": "Border Agent"
+                },
+                {
+                    "actor": "Yudhvir Dahiya",
+                    "actor_id": "nm7916018",
+                    "character": "NDTV Reporter"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/7y3KbUHnee8/maxresdefault.jpg",
+            "PublishedAt": "2019-08-10T11:15:00Z",
+            "ViewCount": "48390497",
+            "LikeCount": "340111",
+            "DislikeCount": "28275",
+            "URL": "https://www.youtube.com/watch?v=7y3KbUHnee8",
+            "Duration": "1:49:43",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi",
+                "Urdu"
+            ],
+            "Director": [
+                "Kabir Khan"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625135623.0266275",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "88%"
+                }
+            ],
+            "Year": "2015",
+            "Released": "17 Jul 2015",
+            "Writer": [
+                "Vijayendra Prasad",
+                "Kabir Khan",
+                "Parveez Sheikh"
+            ],
+            "Plot": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1NjQ5ODc2NV5BMl5BanBnXkFtZTgwOTM5ODIxNjE@.jpg",
+            "IMDBId": "tt3863552",
+            "BoxOffice": "$8,178,001",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "-fDz75ien5c",
+            "Title": "Jodhaa Akbar",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Hrithik Roshan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Aishwarya Rai Bachchan",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Sonu Sood",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Poonam Sinha",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/-fDz75ien5c/maxresdefault.jpg",
+            "PublishedAt": "2018-06-10T09:00:00Z",
+            "ViewCount": "11543714",
+            "LikeCount": "59035",
+            "DislikeCount": "6220",
+            "URL": "https://www.youtube.com/watch?v=-fDz75ien5c",
+            "Duration": "3:28:09",
+            "Genre": [
+                "Action",
+                "Drama",
+                "History",
+                "Romance",
+                "War"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi",
+                "Urdu"
+            ],
+            "Director": [
+                "Ashutosh Gowariker"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137433.7876415",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "75%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "69/100"
+                }
+            ],
+            "Year": "2008",
+            "Released": "15 Feb 2008",
+            "Writer": [
+                "Haidar Ali (story)",
+                "Haidar Ali (screenplay)",
+                "Ashutosh Gowariker (screenplay)",
+                "K.P. Saxena (dialogue)",
+                "Rajshri Sudhakar (Dialogue Writer: Telugu)"
+            ],
+            "Plot": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a great Mughal emperor, Akbar, and a Rajput princess, Jodha.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDMxODNkYmItZDZiMS00MGJiLWI1MDctMzEzOWRjNmViYTc2XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UY133_CR35,0,90,133_.jpg",
+            "IMDBId": "tt0449994",
+            "BoxOffice": "$3,440,718",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "4H4wg_XSKXI",
+            "Title": "Ae Dil Hai Mushkil",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Ranbir Kapoor",
+                    "actor_id": "nm1633541",
+                    "character": "Ayan Sanger"
+                },
+                {
+                    "actor": "Aishwarya Rai Bachchan",
+                    "actor_id": "nm0706787",
+                    "character": "Saba"
+                },
+                {
+                    "actor": "Anushka Sharma",
+                    "actor_id": "nm3087728",
+                    "character": "Alizeh"
+                },
+                {
+                    "actor": "Fawad Khan",
+                    "actor_id": "nm2717565",
+                    "character": "Ali"
+                },
+                {
+                    "actor": "Lisa Haydon",
+                    "actor_id": "nm3629863",
+                    "character": "Lisa D'Souza"
+                },
+                {
+                    "actor": "Imran Abbas",
+                    "actor_id": "nm3871548",
+                    "character": "Dr. Faisal"
+                },
+                {
+                    "actor": "Pooja Mehta",
+                    "actor_id": "nm8633339",
+                    "character": "Bollywood Dance Class Teacher"
+                },
+                {
+                    "actor": "Cru Fox",
+                    "actor_id": "nm8633340",
+                    "character": "Ayan's Main Bandmembers - Lead Guitarist"
+                },
+                {
+                    "actor": "Jamil Ahmed",
+                    "actor_id": "nm8633341",
+                    "character": "Drummer"
+                },
+                {
+                    "actor": "Phyl Cashman",
+                    "actor_id": "nm8633342",
+                    "character": "Bass Guitarist"
+                },
+                {
+                    "actor": "Timea Gazdag",
+                    "actor_id": "nm8633343",
+                    "character": "Keyboards"
+                },
+                {
+                    "actor": "Yohan Contractor",
+                    "actor_id": "nm8633344",
+                    "character": "Video Recorder"
+                },
+                {
+                    "actor": "Byron",
+                    "actor_id": "nm8633345",
+                    "character": "Ayan's Additional Bandmembers - Violinists"
+                },
+                {
+                    "actor": "Yolita",
+                    "actor_id": "nm8633346",
+                    "character": "Ayan's Additional Bandmembers - Violinists"
+                },
+                {
+                    "actor": "Niccolo",
+                    "actor_id": "nm8633347",
+                    "character": "Ayan's Additional Bandmembers - Violinists"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/4H4wg_XSKXI/maxresdefault.jpg",
+            "PublishedAt": "2020-04-23T10:30:01Z",
+            "ViewCount": "9400124",
+            "LikeCount": "93856",
+            "DislikeCount": "5342",
+            "URL": "https://www.youtube.com/watch?v=4H4wg_XSKXI",
+            "Duration": "1:57:08",
+            "Genre": [
+                "Drama",
+                "Music",
+                "Musical"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Karan Johar"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137501.928022",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "40/100"
+                }
+            ],
+            "Year": "2016",
+            "Released": "28 Oct 2016",
+            "Writer": [
+                "Karan Johar",
+                "Niranjan Iyengar"
+            ],
+            "Plot": "This story explores love - the shapes it takes, the ways it changes us and the exhilarating and often terrifying ride it takes us on. It is the journey of two characters, Alizeh and Ayan, as they navigate life, love and heartbreak.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTM1OTI3ZjItOWE3ZS00OTE2LWE2YjAtZTVlM2Q0MGQ5ZThmXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg",
+            "IMDBId": "tt4559006",
+            "BoxOffice": "$4,264,983",
+            "Production": [
+                "Dharma Productions"
+            ]
+        },
+        {
+            "ID": "Xd44Tt09AYY",
+            "Title": "My Name Is Khan",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Shah Rukh Khan",
+                    "actor_id": "nm0451321",
+                    "character": "Rizvan Khan"
+                },
+                {
+                    "actor": "Kajol",
+                    "actor_id": "nm0004418",
+                    "character": "Mandira Khan"
+                },
+                {
+                    "actor": "Katie A. Keane",
+                    "actor_id": "nm1995953",
+                    "character": "Sarah Garrick (as Katie Amanda Keane)"
+                },
+                {
+                    "actor": "Kenton Duty",
+                    "actor_id": "nm2778261",
+                    "character": "Reese Garrick"
+                },
+                {
+                    "actor": "Benny Nieves",
+                    "actor_id": "nm0631373",
+                    "character": "Detective Garcia"
+                },
+                {
+                    "actor": "Christopher B. Duncan",
+                    "actor_id": "nm0241935",
+                    "character": "President Barack Obama"
+                },
+                {
+                    "actor": "Jimmy Sheirgill",
+                    "actor_id": "nm0792116",
+                    "character": "Zakir Khan"
+                },
+                {
+                    "actor": "Sonya Jehan",
+                    "actor_id": "nm1300111",
+                    "character": "Hasina Khan"
+                },
+                {
+                    "actor": "Parvin Dabas",
+                    "actor_id": "nm0196375",
+                    "character": "Bobby Ahuja"
+                },
+                {
+                    "actor": "Arjun Mathur",
+                    "actor_id": "nm1464837",
+                    "character": "Raj Burman"
+                },
+                {
+                    "actor": "Sugandha Garg",
+                    "actor_id": "nm2868019",
+                    "character": "Komal - Rajesh's associate"
+                },
+                {
+                    "actor": "Zarina Wahab",
+                    "actor_id": "nm0906226",
+                    "character": "Razia Khan"
+                },
+                {
+                    "actor": "S.M. Zaheer",
+                    "actor_id": "nm1012529",
+                    "character": ""
+                },
+                {
+                    "actor": "Arif Zakaria",
+                    "actor_id": "nm0952232",
+                    "character": "Dr. Faisal Rahman"
+                },
+                {
+                    "actor": "Vinay Pathak",
+                    "actor_id": "nm0665555",
+                    "character": "Jitesh - Motel Owner"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/Xd44Tt09AYY/maxresdefault.jpg",
+            "PublishedAt": "2020-10-09T11:00:29Z",
+            "ViewCount": "8792224",
+            "LikeCount": "72027",
+            "DislikeCount": "3764",
+            "URL": "https://www.youtube.com/watch?v=Xd44Tt09AYY",
+            "Duration": "2:18:04",
+            "Genre": [
+                "Drama"
+            ],
+            "Quality": "hd",
+            "Country": "India, United States, United Arab Emirates, Hong Kong",
+            "Language": [
+                "Hindi",
+                "English"
+            ],
+            "Director": [
+                "Karan Johar"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137547.0796185",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "85%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "50/100"
+                }
+            ],
+            "Year": "2010",
+            "Released": "12 Feb 2010",
+            "Writer": [
+                "Shibani Bathija",
+                "Niranjan Iyengar"
+            ],
+            "Plot": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@.jpg",
+            "IMDBId": "tt1188996",
+            "BoxOffice": "$4,018,771",
+            "Production": [
+                "Dharma Productions",
+                "Red Chillies Entertainment",
+                "Fox Searchlight"
+            ]
+        },
+        {
+            "ID": "FhmEvMubZZY",
+            "Title": "Special Chabbis",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Akshay Kumar",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Anupam Kher",
+                    "actor_id": "",
+                    "character": ""
+                },
+                {
+                    "actor": " Manoj Bajpayee",
+                    "actor_id": "",
+                    "character": ""
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/FhmEvMubZZY/maxresdefault.jpg",
+            "PublishedAt": "2020-01-10T10:30:01Z",
+            "ViewCount": "7087511",
+            "LikeCount": "37645",
+            "DislikeCount": "4419",
+            "URL": "https://www.youtube.com/watch?v=FhmEvMubZZY",
+            "Duration": "2:32:59",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Neeraj Pandey"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137601.7430546",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "89%"
+                }
+            ],
+            "Year": "2013",
+            "Released": "08 Feb 2013",
+            "Writer": [
+                "Neeraj Pandey"
+            ],
+            "Plot": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDZkYTlmNWItMjU2MS00Mzc2LTk0OWQtOThmZWViMjc5Yzg5XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UY133_CR44,0,90,133_.jpg",
+            "IMDBId": "tt2377938",
+            "BoxOffice": "N/A",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "YklgPTDcs3g",
+            "Title": "Padmaavat",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Deepika Padukone",
+                    "actor_id": "nm2138653",
+                    "character": "Padmavati"
+                },
+                {
+                    "actor": "Ranveer Singh",
+                    "actor_id": "nm3828984",
+                    "character": "Sultan Alauddin Khilji"
+                },
+                {
+                    "actor": "Shahid Kapoor",
+                    "actor_id": "nm1372788",
+                    "character": "Maharawal Ratan Singh"
+                },
+                {
+                    "actor": "Aditi Rao Hydari",
+                    "actor_id": "nm2390814",
+                    "character": "Mehrunissa"
+                },
+                {
+                    "actor": "Jim Sarbh",
+                    "actor_id": "nm6845061",
+                    "character": "Malik Kafur"
+                },
+                {
+                    "actor": "Anupriya Goenka",
+                    "actor_id": "nm5947725",
+                    "character": "Nagmati"
+                },
+                {
+                    "actor": "Raza Murad",
+                    "actor_id": "nm0613417",
+                    "character": "Jalaluddin Khilji"
+                },
+                {
+                    "actor": "Ujjwal Chopra",
+                    "actor_id": "nm2717649",
+                    "character": "Gora Singh"
+                },
+                {
+                    "actor": "Komal Chhabria",
+                    "actor_id": "nm8715584",
+                    "character": "Jalaluddin's Wife"
+                },
+                {
+                    "actor": "Lankesh Bhardwaj",
+                    "actor_id": "nm9714213",
+                    "character": "Tribhuvan Pal"
+                },
+                {
+                    "actor": "Bhawani Muzamil",
+                    "actor_id": "nm9093959",
+                    "character": "Amir Khusro (as Muzzamil Bhavani)"
+                },
+                {
+                    "actor": "Hriiday Malhotra",
+                    "actor_id": "nm8107675",
+                    "character": "Sujaan Singh"
+                },
+                {
+                    "actor": "Deepak Shreemali",
+                    "actor_id": "nm9714212",
+                    "character": "Badal Singh"
+                },
+                {
+                    "actor": "Manish Wadhwa",
+                    "actor_id": "nm1742602",
+                    "character": "Gandharvasen"
+                },
+                {
+                    "actor": "Gulshan Walia",
+                    "actor_id": "nm9714215",
+                    "character": "Head Monk"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/YklgPTDcs3g/maxresdefault.jpg",
+            "PublishedAt": "2020-11-04T09:00:15Z",
+            "ViewCount": "12477819",
+            "LikeCount": "100280",
+            "DislikeCount": "10493",
+            "URL": "https://www.youtube.com/watch?v=YklgPTDcs3g",
+            "Duration": "2:10:44",
+            "Genre": [
+                "Drama",
+                "History",
+                "Romance",
+                "War"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi",
+                "Tamil",
+                "Rajasthani"
+            ],
+            "Director": [
+                "Sanjay Leela Bhansali"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137650.1152465",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.0/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "56%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "63/100"
+                }
+            ],
+            "Year": "2018",
+            "Released": "25 Jan 2018",
+            "Writer": [
+                "Prakash Kapadia (screenplay)",
+                "Sanjay Leela Bhansali (screenplay)",
+                "Prakash Kapadia (dialogue)"
+            ],
+            "Plot": "Set in medieval Rajasthan, Queen Padmavati is married to a noble king and they live in a prosperous fortress with their subjects until an ambitious Sultan hears of Padmavati's beauty and forms an obsessive love for the Queen of Mewar.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWZjMjkwM2QtZTJiMy00MmI5LWI2YjEtMmY5NjNiYTE2NTBiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg",
+            "IMDBId": "tt5935704",
+            "BoxOffice": "$11,846,060",
+            "Production": [
+                "N/A"
+            ]
+        },
+        {
+            "ID": "GN4-488gOYI",
+            "Title": "Mohenjo Daro",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Hrithik Roshan",
+                    "actor_id": "nm0004335",
+                    "character": "Sarman"
+                },
+                {
+                    "actor": "Pooja Hegde",
+                    "actor_id": "nm5249562",
+                    "character": "Chaani"
+                },
+                {
+                    "actor": "Kabir Bedi",
+                    "actor_id": "nm0001934",
+                    "character": "Maham"
+                },
+                {
+                    "actor": "Arunoday Singh",
+                    "actor_id": "nm3349461",
+                    "character": "Moonja"
+                },
+                {
+                    "actor": "Suhasini Mulay",
+                    "actor_id": "nm0611663",
+                    "character": "Laashi"
+                },
+                {
+                    "actor": "Nitish Bharadwaj",
+                    "actor_id": "nm0080232",
+                    "character": "Durjan"
+                },
+                {
+                    "actor": "Kishori Shahane",
+                    "actor_id": "nm1133214",
+                    "character": "Bima"
+                },
+                {
+                    "actor": "Sharad Kelkar",
+                    "actor_id": "nm2821544",
+                    "character": "Srujan"
+                },
+                {
+                    "actor": "Manish Chaudhary",
+                    "actor_id": "nm1472197",
+                    "character": "Priest"
+                },
+                {
+                    "actor": "Narendra Jha",
+                    "actor_id": "nm2368423",
+                    "character": "Jakhiro"
+                },
+                {
+                    "actor": "Shaji Chaudhary",
+                    "actor_id": "nm3473336",
+                    "character": "Kulka"
+                },
+                {
+                    "actor": "Tufail Khan Rigoo",
+                    "actor_id": "nm8361782",
+                    "character": "Ishme Dagan"
+                },
+                {
+                    "actor": "Diganta Hazarika",
+                    "actor_id": "nm5224360",
+                    "character": "Lothar"
+                },
+                {
+                    "actor": "Naina Trivedi",
+                    "actor_id": "nm8193145",
+                    "character": "Junu"
+                },
+                {
+                    "actor": "Umang Vyas",
+                    "actor_id": "nm3922873",
+                    "character": "Hojo"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/GN4-488gOYI/maxresdefault.jpg",
+            "PublishedAt": "2020-07-24T11:00:05Z",
+            "ViewCount": "6180864",
+            "LikeCount": "40669",
+            "DislikeCount": "3300",
+            "URL": "https://www.youtube.com/watch?v=GN4-488gOYI",
+            "Duration": "2:25:48",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Ashutosh Gowariker"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137723.1435785",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "36%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "39/100"
+                }
+            ],
+            "Year": "2016",
+            "Released": "12 Aug 2016",
+            "Writer": [
+                "Ashutosh Gowariker",
+                "Preeti Mamgain"
+            ],
+            "Plot": "In 2016 BC, a kind farmer leads an uprising in the city of Mohenjo Daro.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzBhNTk0MzUtZTc4Yy00NDk3LWE1ZTItYjFmODQ4NTczMGVkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkxMzY0Mjk@.jpg",
+            "IMDBId": "tt3859980",
+            "BoxOffice": "$1,264,339",
+            "Production": [
+                "Ashutosh Gowariker Productions Pvt. Ltd.",
+                "UTV Motion Pictures"
+            ]
+        },
+        {
+            "ID": "KApj8LmbLzo",
+            "Title": "Pari",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Anushka Sharma",
+                    "actor_id": "nm3087728",
+                    "character": "Rukhsana"
+                },
+                {
+                    "actor": "Parambrata Chattopadhyay",
+                    "actor_id": "nm1913625",
+                    "character": "Arnab"
+                },
+                {
+                    "actor": "Rajat Kapoor",
+                    "actor_id": "nm0438494",
+                    "character": "Professor"
+                },
+                {
+                    "actor": "Ritabhari Chakraborty",
+                    "actor_id": "nm6363843",
+                    "character": "Piyali"
+                },
+                {
+                    "actor": "Preeti Sharma",
+                    "actor_id": "nm9839673",
+                    "character": "Rubina"
+                },
+                {
+                    "actor": "Mansi Multani",
+                    "actor_id": "nm4707842",
+                    "character": "Kalapori"
+                },
+                {
+                    "actor": "Dibyendu Bhattacharya",
+                    "actor_id": "nm0080349",
+                    "character": "Kanai"
+                },
+                {
+                    "actor": "Imran Rasheed",
+                    "actor_id": "nm6374499",
+                    "character": "Faaris"
+                },
+                {
+                    "actor": "Mohammed Shakir",
+                    "actor_id": "nm9171686",
+                    "character": "Parvez"
+                },
+                {
+                    "actor": "Aasif Khan",
+                    "actor_id": "nm9753053",
+                    "character": "Ismail"
+                },
+                {
+                    "actor": "Vinod Suryavanshi",
+                    "actor_id": "nm9839674",
+                    "character": "Morgue Worker (Local Hospital)"
+                },
+                {
+                    "actor": "Joydeep Mukherjee",
+                    "actor_id": "nm5796588",
+                    "character": "Lawyer"
+                },
+                {
+                    "actor": "Jagannath Seth",
+                    "actor_id": "nm9839675",
+                    "character": "Prahlad"
+                },
+                {
+                    "actor": "Anshuman Jha",
+                    "actor_id": "nm3823216",
+                    "character": "Student"
+                },
+                {
+                    "actor": "Nisha",
+                    "actor_id": "nm9839676",
+                    "character": "Muslim Woman 1 (as Nisha KT)"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/KApj8LmbLzo/maxresdefault.jpg",
+            "PublishedAt": "2020-07-17T08:00:05Z",
+            "ViewCount": "3641065",
+            "LikeCount": "35795",
+            "DislikeCount": "2447",
+            "URL": "https://www.youtube.com/watch?v=KApj8LmbLzo",
+            "Duration": "2:04:54",
+            "Genre": [
+                "Fantasy",
+                "Horror",
+                "Mystery"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Prosit Roy"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137859.6334295",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "6.6/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "46%"
+                }
+            ],
+            "Year": "2018",
+            "Released": "02 Mar 2018",
+            "Writer": [
+                "Abhishek Banerjee",
+                "Prosit Roy",
+                "Anvita Dutt"
+            ],
+            "Plot": "Arnab tries to help Ruksahana, who is found under mysterious circumstances in a house. He lets her stay at his home until he discovers something strange about her.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4YzgxMjYtMzg4Mi00MjJiLThjOGMtYThkM2E0MWQ1NTA3XkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg",
+            "IMDBId": "tt7329858",
+            "BoxOffice": "N/A",
+            "Production": [
+                "Clean Slate Films",
+                "KriArj Entertainment"
+            ]
+        },
+        {
+            "ID": "FM9E3OT2vv8",
+            "Title": "Kai po che!",
+            "Category": "Movie",
+            "Cast": [
+                {
+                    "actor": "Rajkummar Rao",
+                    "actor_id": "nm3822770",
+                    "character": "Govind"
+                },
+                {
+                    "actor": "Amit Sadh",
+                    "actor_id": "nm2815326",
+                    "character": "Omi Shastri"
+                },
+                {
+                    "actor": "Sushant Singh Rajput",
+                    "actor_id": "nm3818286",
+                    "character": "Ishaan Bhatt"
+                },
+                {
+                    "actor": "Amrita Puri",
+                    "actor_id": "nm3629670",
+                    "character": "Vidya Bhatt"
+                },
+                {
+                    "actor": "Digvijay Deshmukh",
+                    "actor_id": "nm5695367",
+                    "character": "Ali Hashmi"
+                },
+                {
+                    "actor": "Asif Basra",
+                    "actor_id": "nm1794460",
+                    "character": "Naseer Hashmi"
+                },
+                {
+                    "actor": "Manav Kaul",
+                    "actor_id": "nm1964139",
+                    "character": "Bittoo Joshi"
+                },
+                {
+                    "actor": "Ashish Kakkad",
+                    "actor_id": "nm5030347",
+                    "character": "Vishwas"
+                },
+                {
+                    "actor": "Muni Jha",
+                    "actor_id": "nm1257474",
+                    "character": "Ishaan's father"
+                },
+                {
+                    "actor": "Morli Patel",
+                    "actor_id": "nm5651050",
+                    "character": "Govind's mother"
+                },
+                {
+                    "actor": "Amitabh Srivastava",
+                    "actor_id": "nm1576124",
+                    "character": "Omi's father"
+                },
+                {
+                    "actor": "Bina Shah",
+                    "actor_id": "nm10168768",
+                    "character": "Omi's mother"
+                },
+                {
+                    "actor": "Irfan Khan",
+                    "actor_id": "nm4541970",
+                    "character": "Javed"
+                }
+            ],
+            "Thumbnail_URL": "https://i.ytimg.com/vi/FM9E3OT2vv8/maxresdefault.jpg",
+            "PublishedAt": "2020-07-25T08:00:07Z",
+            "ViewCount": "750246",
+            "LikeCount": "10722",
+            "DislikeCount": "365",
+            "URL": "https://www.youtube.com/watch?v=FM9E3OT2vv8",
+            "Duration": "1:53:45",
+            "Genre": [
+                "Drama",
+                "Sport"
+            ],
+            "Quality": "hd",
+            "Country": "India",
+            "Language": [
+                "Hindi"
+            ],
+            "Director": [
+                "Abhishek Kapoor"
+            ],
+            "Producer": [],
+            "ChannelTitle": "RG Entertainment",
+            "UpdatedAt": "1625137922.4363909",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "78%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "40/100"
+                }
+            ],
+            "Year": "2013",
+            "Released": "22 Feb 2013",
+            "Writer": [
+                "Chetan Bhagat",
+                "Abhishek Kapoor",
+                "Supratik Sen"
+            ],
+            "Plot": "Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country's next cricket stars.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@.jpg",
+            "IMDBId": "tt2213054",
+            "BoxOffice": "$1,122,527",
+            "Production": [
+                "N/A"
+            ]
         }
     ]
 }
