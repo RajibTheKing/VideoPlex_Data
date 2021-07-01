@@ -88,6 +88,12 @@ class YoutubeAPI:
                 print("Link is not Embeddable --> ", videoLink)
                 return None
 
+            if "contentRating" in jsonData["contentDetails"].keys():
+                if "ytRating" in jsonData["contentDetails"]["contentRating"].keys():
+                    if jsonData["contentDetails"]["contentRating"]["ytRating"] == "ytAgeRestricted":
+                        print("Link is age Restricted --> not Embeddable --> ", videoLink)
+                        return None
+
             jsonStr = json.dumps(jsonData, indent=4, ensure_ascii=False).encode('UTF-8')
             print(jsonStr.decode())
             return jsonData
