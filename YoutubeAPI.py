@@ -76,6 +76,10 @@ class YoutubeAPI:
             urlStr = "https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,contentDetails,id,status&id=" + self.getVideoID(videoLink) + "&key=" + self.apiKey
             response = requests.get(urlStr)
             jsonData = response.json()
+            
+            # print("Actual Response--> ")
+            # jsonStr = json.dumps(jsonData, indent=4, ensure_ascii=False).encode('UTF-8')
+            # print(jsonStr.decode())
 
             # Start: Preprocess Video Details (IMPORTANT --> for further tasks)
             jsonData = jsonData['items'][0]
