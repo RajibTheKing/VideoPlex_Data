@@ -59,7 +59,7 @@ class JSONModifier:
                     x["Duration"] = videoDetails["contentDetails"]["duration"]
                     # x["Genre"]        --> Untouched
                     x["Quality"] = videoDetails["contentDetails"]["definition"]
-                    # x["Country"]      --> Untouched
+                    x["Country"] = []
                     # x["Language"]     --> Untouched
                     # x["Director"]     --> Untouched
                     # x["Producer"]     --> Untouched
@@ -114,7 +114,7 @@ class JSONModifier:
         x["Duration"] = videoDetails["contentDetails"]["duration"]
         x["Genre"] = []
         x["Quality"] = videoDetails["contentDetails"]["definition"]
-        x["Country"] = ""
+        x["Country"] = []
         x["Language"] = []
         x["Director"] = []
         x["Producer"] = []

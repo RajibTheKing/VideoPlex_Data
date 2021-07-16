@@ -72,6 +72,9 @@ class RapidApi:
         #Fix Language
         ret["Language"] = [x.strip() for x in ret["Language"].split(",")]
 
+        #Fix Country
+        ret["Country"] = [x.strip() for x in ret["Country"].split(",")]
+
         del ret['imdbRating']
         del ret['imdbVotes']
         del ret['Website']
