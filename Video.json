@@ -8128,7 +8128,9 @@
                 "Thriller"
             ],
             "Quality": "hd",
-            "Country": "India",
+            "Country": [
+                "India" 
+            ],
             "Language": [
                 "Hindi"
             ],
@@ -9928,7 +9930,9 @@
                 "Romance"
             ],
             "Quality": "hd",
-            "Country": "India",
+            "Country": [
+                "India"
+            ],
             "Language": [
                 "Hindi"
             ],
@@ -11056,7 +11060,9 @@
                 "Thriller"
             ],
             "Quality": "hd",
-            "Country": "India",
+            "Country": [
+                "India"
+            ],
             "Language": [
                 "Hindi"
             ],
@@ -11807,7 +11813,9 @@
                 "Drama"
             ],
             "Quality": "hd",
-            "Country": "India",
+            "Country": [
+                "India"
+            ],
             "Language": [
                 "Hindi",
                 "English"
@@ -12039,7 +12047,9 @@
                 "Musical"
             ],
             "Quality": "hd",
-            "Country": "Bangladesh",
+            "Country": [
+                "Bangladesh"
+            ],
             "Language": [
                 "Bengali"
             ],
@@ -12272,7 +12282,9 @@
                 "Romance"
             ],
             "Quality": "hd",
-            "Country": "India",
+            "Country": [
+                "India"
+            ],
             "Language": [
                 "Bengali"
             ],
