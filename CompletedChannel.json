@@ -11,7 +11,11 @@
         {
             "ChannelTitle": "RG Entertainment",
             "ChannelLink": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w/featured"
-        }        
+        },
+        {
+            "ChannelTitle": "B4U Movies",
+            "ChannelLink": "https://www.youtube.com/c/B4UMovies"
+        }
 
     ]
 }
